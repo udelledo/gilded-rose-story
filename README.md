@@ -8,3 +8,5 @@ The core framework used to test our code is [JUnit 5](https://junit.org/junit5/)
 
 We will be looking at how we can quickly put in place tests that verify the behaviour of our application using
 [ApprovalTests](https://github.com/approvals/ApprovalTests.Java) to quickly cover all our code, and [PiTest](https://pitest.org/) to maintain the confidence that our tests are covering all possible cases, and we have left no stones unturned. 
+
+       * [Day 1](doc/Day_01.md)
