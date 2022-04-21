@@ -1,7 +1,13 @@
 package com.gildedrose;
 
+import org.approvaltests.Approvals;
 import org.junit.jupiter.api.Test;
 
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Objects;
+import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -18,21 +24,34 @@ class GildedRoseTest {
 
     @Test
     void verificationTest() {
+        List<String> itemNames = Arrays.asList(
+                "+5 Dexterity Vest",
+                "Aged Brie",
+                "Elixir of the Mongoose",
+                "Sulfuras, Hand of Ragnaros",
+                "Backstage passes to a TAFKAL80ETC concert"
+        );
+        List<Integer> sellIns = Arrays.asList(10, 2, 5, 0, -1, 15, 3);
+        List<Integer> qualities = Arrays.asList(20, 0, 7, 80, 20, 49, 6);
+        Item[] itemsList = itemNames.stream()
+                .flatMap(name -> sellIns.stream()
+                        .flatMap(sellIn -> qualities.stream()
+                                .map(quality -> 
+                                        new Item(name, sellIn, quality))))
+                .toArray(Item[]::new);
+        GildedRose app = new GildedRose(itemsList);
 
-        Item[] items = new Item[]{
-                new Item("+5 Dexterity Vest", 10, 20), //
-                new Item("Aged Brie", 2, 0), //
-                new Item("Elixir of the Mongoose", 5, 7), //
-                new Item("Sulfuras, Hand of Ragnaros", 0, 80), //
-                new Item("Sulfuras, Hand of Ragnaros", -1, 80),
-                new Item("Backstage passes to a TAFKAL80ETC concert", 15, 20),
-                new Item("Backstage passes to a TAFKAL80ETC concert", 10, 49),
-                new Item("Backstage passes to a TAFKAL80ETC concert", 5, 49),
-                // this conjured item does not work properly yet
-                new Item("Conjured Mana Cake", 3, 6)};
+        Approvals.verifyAll("Daily Item Report", IntStream.range(1, 15).boxed().toArray(), day -> {
+            app.updateQuality();
+            return "Items after day " + day + System.lineSeparator() + itemToString(itemsList);
+        });        
+    }
 
-        GildedRose app = new GildedRose(items);
-        IntStream.range(0, 10).forEach(day -> app.updateQuality());
+    private String itemToString(Item[] itemsList) {
+        return Arrays.stream(itemsList)
+                .map(Objects::toString)
+                .sorted()
+                .collect(Collectors.joining(System.lineSeparator()));
     }
 
 }
