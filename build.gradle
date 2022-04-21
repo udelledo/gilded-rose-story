@@ -1,6 +1,7 @@
 plugins {
     id 'java'
     id 'jacoco'
+    id 'info.solidsoft.pitest' version '1.7.4'
 }
 
 repositories {
@@ -27,4 +28,10 @@ jacocoTestReport {
         html.outputLocation = layout.projectDirectory.dir('./reports/jacoco')
     }
     dependsOn test // tests are required to run before generating the report
+}
+pitest{
+    useClasspathFile = true
+    timestampedReports = false
+    junit5PluginVersion = '0.15'
+    reportDir = layout.projectDirectory.dir('./reports/pitest')
 }
