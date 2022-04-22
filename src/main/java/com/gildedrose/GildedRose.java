@@ -9,43 +9,53 @@ class GildedRose {
 
     public void updateQuality() {
         for (Item item : items) {
-            if (isDecreasingItem(item)) {
-                if (!isSulfuras(item)) {
-                    decreaseQuality(item);
-                }
-                if (isClojure(item)) {
-                    decreaseQuality(item);
-                }
-            } else {
+            processCoreQualityDegradation(item);
+            markTime(item);
+            processSellInBasedAppreciation(item);
+        }
+    }
+
+    private void processSellInBasedAppreciation(Item item) {
+        if (item.sellIn < 0) {
+            if (isAgedBrie(item)) {
                 increaseQuality(item);
-
+            } else {
                 if (isBackStagePass(item)) {
-                    if (item.sellIn < 11) {
-                        increaseQuality(item);
+                    item.quality = 0;
+                } else {
+                    if (isSulfuras(item)) {
+                        return;
                     }
-
-                    if (item.sellIn < 6) {
-                        increaseQuality(item);
-                    }
+                    decreaseQuality(item);
                 }
             }
+        }
+    }
 
+    private void markTime(Item item) {
+        if (!isSulfuras(item)) {
+            item.sellIn = item.sellIn - 1;
+        }
+    }
+
+    private void processCoreQualityDegradation(Item item) {
+        if (isDecreasingItem(item)) {
             if (!isSulfuras(item)) {
-                item.sellIn = item.sellIn - 1;
+                decreaseQuality(item);
             }
+            if (isClojure(item)) {
+                decreaseQuality(item);
+            }
+        } else {
+            increaseQuality(item);
 
-            if (item.sellIn < 0) {
-                if (isAgedBrie(item)) {
+            if (isBackStagePass(item)) {
+                if (item.sellIn < 11) {
                     increaseQuality(item);
-                } else {
-                    if (isBackStagePass(item)) {
-                        item.quality = 0;
-                    } else {
-                        if (isSulfuras(item)) {
-                            continue;
-                        }
-                        decreaseQuality(item);
-                    }
+                }
+
+                if (item.sellIn < 6) {
+                    increaseQuality(item);
                 }
             }
         }
