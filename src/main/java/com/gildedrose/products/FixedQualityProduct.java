@@ -6,14 +6,17 @@ import com.gildedrose.Item;
 /**
  * This is a special item that does not change anything. It is used for mystical elements.
  */
-public class NoChangeProduct extends ItemQuantityDailyProcessor {
-    protected NoChangeProduct(Item item) {
+public class FixedQualityProduct extends ItemQuantityDailyProcessor {
+    private final int quality;
+
+    public FixedQualityProduct(Item item, int quality) {
         super(item);
+        this.quality = quality;
     }
 
     @Override
     protected void applyBasicUpdates() {
-        // Mystical items do not degrade nor improve.
+        getItem().quality = quality;
     }
 
     @Override
