@@ -32,11 +32,11 @@ class GildedRoseTest {
                 "Backstage passes to a TAFKAL80ETC concert"
         );
         List<Integer> sellIns = Arrays.asList(10, 2, 5, 0, -1, 15, 3);
-        List<Integer> qualities = Arrays.asList(20, 0, 7, 80, 20, 49, 6);
+        List<Integer> qualities = Arrays.asList(20, 0, 7, 80, 20, 49, 6, -1);
         Item[] itemsList = itemNames.stream()
                 .flatMap(name -> sellIns.stream()
                         .flatMap(sellIn -> qualities.stream()
-                                .map(quality -> 
+                                .map(quality ->
                                         new Item(name, sellIn, quality))))
                 .toArray(Item[]::new);
         GildedRose app = new GildedRose(itemsList);
@@ -44,7 +44,7 @@ class GildedRoseTest {
         Approvals.verifyAll("Daily Item Report", IntStream.range(1, 15).boxed().toArray(), day -> {
             app.updateQuality();
             return "Items after day " + day + System.lineSeparator() + itemToString(itemsList);
-        });        
+        });
     }
 
     private String itemToString(Item[] itemsList) {

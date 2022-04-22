@@ -2,6 +2,7 @@ Daily Item Report
 
 
 Items after day 1
++5 Dexterity Vest, -1, -1
 +5 Dexterity Vest, -1, 0
 +5 Dexterity Vest, -1, 18
 +5 Dexterity Vest, -1, 18
@@ -9,6 +10,7 @@ Items after day 1
 +5 Dexterity Vest, -1, 47
 +5 Dexterity Vest, -1, 5
 +5 Dexterity Vest, -1, 78
++5 Dexterity Vest, -2, -1
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 18
 +5 Dexterity Vest, -2, 18
@@ -16,6 +18,7 @@ Items after day 1
 +5 Dexterity Vest, -2, 47
 +5 Dexterity Vest, -2, 5
 +5 Dexterity Vest, -2, 78
++5 Dexterity Vest, 1, -1
 +5 Dexterity Vest, 1, 0
 +5 Dexterity Vest, 1, 19
 +5 Dexterity Vest, 1, 19
@@ -23,6 +26,7 @@ Items after day 1
 +5 Dexterity Vest, 1, 5
 +5 Dexterity Vest, 1, 6
 +5 Dexterity Vest, 1, 79
++5 Dexterity Vest, 14, -1
 +5 Dexterity Vest, 14, 0
 +5 Dexterity Vest, 14, 19
 +5 Dexterity Vest, 14, 19
@@ -30,6 +34,7 @@ Items after day 1
 +5 Dexterity Vest, 14, 5
 +5 Dexterity Vest, 14, 6
 +5 Dexterity Vest, 14, 79
++5 Dexterity Vest, 2, -1
 +5 Dexterity Vest, 2, 0
 +5 Dexterity Vest, 2, 19
 +5 Dexterity Vest, 2, 19
@@ -37,6 +42,7 @@ Items after day 1
 +5 Dexterity Vest, 2, 5
 +5 Dexterity Vest, 2, 6
 +5 Dexterity Vest, 2, 79
++5 Dexterity Vest, 4, -1
 +5 Dexterity Vest, 4, 0
 +5 Dexterity Vest, 4, 19
 +5 Dexterity Vest, 4, 19
@@ -44,6 +50,7 @@ Items after day 1
 +5 Dexterity Vest, 4, 5
 +5 Dexterity Vest, 4, 6
 +5 Dexterity Vest, 4, 79
++5 Dexterity Vest, 9, -1
 +5 Dexterity Vest, 9, 0
 +5 Dexterity Vest, 9, 19
 +5 Dexterity Vest, 9, 19
@@ -51,6 +58,7 @@ Items after day 1
 +5 Dexterity Vest, 9, 5
 +5 Dexterity Vest, 9, 6
 +5 Dexterity Vest, 9, 79
+Aged Brie, -1, 1
 Aged Brie, -1, 2
 Aged Brie, -1, 22
 Aged Brie, -1, 22
@@ -58,6 +66,7 @@ Aged Brie, -1, 50
 Aged Brie, -1, 8
 Aged Brie, -1, 80
 Aged Brie, -1, 9
+Aged Brie, -2, 1
 Aged Brie, -2, 2
 Aged Brie, -2, 22
 Aged Brie, -2, 22
@@ -65,6 +74,7 @@ Aged Brie, -2, 50
 Aged Brie, -2, 8
 Aged Brie, -2, 80
 Aged Brie, -2, 9
+Aged Brie, 1, 0
 Aged Brie, 1, 1
 Aged Brie, 1, 21
 Aged Brie, 1, 21
@@ -72,6 +82,7 @@ Aged Brie, 1, 50
 Aged Brie, 1, 7
 Aged Brie, 1, 8
 Aged Brie, 1, 80
+Aged Brie, 14, 0
 Aged Brie, 14, 1
 Aged Brie, 14, 21
 Aged Brie, 14, 21
@@ -79,6 +90,7 @@ Aged Brie, 14, 50
 Aged Brie, 14, 7
 Aged Brie, 14, 8
 Aged Brie, 14, 80
+Aged Brie, 2, 0
 Aged Brie, 2, 1
 Aged Brie, 2, 21
 Aged Brie, 2, 21
@@ -86,6 +98,7 @@ Aged Brie, 2, 50
 Aged Brie, 2, 7
 Aged Brie, 2, 8
 Aged Brie, 2, 80
+Aged Brie, 4, 0
 Aged Brie, 4, 1
 Aged Brie, 4, 21
 Aged Brie, 4, 21
@@ -93,6 +106,7 @@ Aged Brie, 4, 50
 Aged Brie, 4, 7
 Aged Brie, 4, 8
 Aged Brie, 4, 80
+Aged Brie, 9, 0
 Aged Brie, 9, 1
 Aged Brie, 9, 21
 Aged Brie, 9, 21
@@ -107,6 +121,8 @@ Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
@@ -115,12 +131,14 @@ Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, 1, 10
+Backstage passes to a TAFKAL80ETC concert, 1, 2
 Backstage passes to a TAFKAL80ETC concert, 1, 23
 Backstage passes to a TAFKAL80ETC concert, 1, 23
 Backstage passes to a TAFKAL80ETC concert, 1, 3
 Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 80
 Backstage passes to a TAFKAL80ETC concert, 1, 9
+Backstage passes to a TAFKAL80ETC concert, 14, 0
 Backstage passes to a TAFKAL80ETC concert, 14, 1
 Backstage passes to a TAFKAL80ETC concert, 14, 21
 Backstage passes to a TAFKAL80ETC concert, 14, 21
@@ -129,6 +147,7 @@ Backstage passes to a TAFKAL80ETC concert, 14, 7
 Backstage passes to a TAFKAL80ETC concert, 14, 8
 Backstage passes to a TAFKAL80ETC concert, 14, 80
 Backstage passes to a TAFKAL80ETC concert, 2, 10
+Backstage passes to a TAFKAL80ETC concert, 2, 2
 Backstage passes to a TAFKAL80ETC concert, 2, 23
 Backstage passes to a TAFKAL80ETC concert, 2, 23
 Backstage passes to a TAFKAL80ETC concert, 2, 3
@@ -136,12 +155,14 @@ Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 80
 Backstage passes to a TAFKAL80ETC concert, 2, 9
 Backstage passes to a TAFKAL80ETC concert, 4, 10
+Backstage passes to a TAFKAL80ETC concert, 4, 2
 Backstage passes to a TAFKAL80ETC concert, 4, 23
 Backstage passes to a TAFKAL80ETC concert, 4, 23
 Backstage passes to a TAFKAL80ETC concert, 4, 3
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 80
 Backstage passes to a TAFKAL80ETC concert, 4, 9
+Backstage passes to a TAFKAL80ETC concert, 9, 1
 Backstage passes to a TAFKAL80ETC concert, 9, 2
 Backstage passes to a TAFKAL80ETC concert, 9, 22
 Backstage passes to a TAFKAL80ETC concert, 9, 22
@@ -149,6 +170,7 @@ Backstage passes to a TAFKAL80ETC concert, 9, 50
 Backstage passes to a TAFKAL80ETC concert, 9, 8
 Backstage passes to a TAFKAL80ETC concert, 9, 80
 Backstage passes to a TAFKAL80ETC concert, 9, 9
+Elixir of the Mongoose, -1, -1
 Elixir of the Mongoose, -1, 0
 Elixir of the Mongoose, -1, 18
 Elixir of the Mongoose, -1, 18
@@ -156,6 +178,7 @@ Elixir of the Mongoose, -1, 4
 Elixir of the Mongoose, -1, 47
 Elixir of the Mongoose, -1, 5
 Elixir of the Mongoose, -1, 78
+Elixir of the Mongoose, -2, -1
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 18
 Elixir of the Mongoose, -2, 18
@@ -163,6 +186,7 @@ Elixir of the Mongoose, -2, 4
 Elixir of the Mongoose, -2, 47
 Elixir of the Mongoose, -2, 5
 Elixir of the Mongoose, -2, 78
+Elixir of the Mongoose, 1, -1
 Elixir of the Mongoose, 1, 0
 Elixir of the Mongoose, 1, 19
 Elixir of the Mongoose, 1, 19
@@ -170,6 +194,7 @@ Elixir of the Mongoose, 1, 48
 Elixir of the Mongoose, 1, 5
 Elixir of the Mongoose, 1, 6
 Elixir of the Mongoose, 1, 79
+Elixir of the Mongoose, 14, -1
 Elixir of the Mongoose, 14, 0
 Elixir of the Mongoose, 14, 19
 Elixir of the Mongoose, 14, 19
@@ -177,6 +202,7 @@ Elixir of the Mongoose, 14, 48
 Elixir of the Mongoose, 14, 5
 Elixir of the Mongoose, 14, 6
 Elixir of the Mongoose, 14, 79
+Elixir of the Mongoose, 2, -1
 Elixir of the Mongoose, 2, 0
 Elixir of the Mongoose, 2, 19
 Elixir of the Mongoose, 2, 19
@@ -184,6 +210,7 @@ Elixir of the Mongoose, 2, 48
 Elixir of the Mongoose, 2, 5
 Elixir of the Mongoose, 2, 6
 Elixir of the Mongoose, 2, 79
+Elixir of the Mongoose, 4, -1
 Elixir of the Mongoose, 4, 0
 Elixir of the Mongoose, 4, 19
 Elixir of the Mongoose, 4, 19
@@ -191,6 +218,7 @@ Elixir of the Mongoose, 4, 48
 Elixir of the Mongoose, 4, 5
 Elixir of the Mongoose, 4, 6
 Elixir of the Mongoose, 4, 79
+Elixir of the Mongoose, 9, -1
 Elixir of the Mongoose, 9, 0
 Elixir of the Mongoose, 9, 19
 Elixir of the Mongoose, 9, 19
@@ -198,6 +226,7 @@ Elixir of the Mongoose, 9, 48
 Elixir of the Mongoose, 9, 5
 Elixir of the Mongoose, 9, 6
 Elixir of the Mongoose, 9, 79
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -205,6 +234,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -212,6 +242,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -219,6 +250,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -226,6 +258,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -233,6 +266,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -240,6 +274,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -248,6 +283,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 2
++5 Dexterity Vest, -2, -1
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 16
 +5 Dexterity Vest, -2, 16
@@ -255,6 +291,7 @@ Items after day 2
 +5 Dexterity Vest, -2, 3
 +5 Dexterity Vest, -2, 45
 +5 Dexterity Vest, -2, 76
++5 Dexterity Vest, -3, -1
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 16
 +5 Dexterity Vest, -3, 16
@@ -262,6 +299,7 @@ Items after day 2
 +5 Dexterity Vest, -3, 3
 +5 Dexterity Vest, -3, 45
 +5 Dexterity Vest, -3, 76
++5 Dexterity Vest, 0, -1
 +5 Dexterity Vest, 0, 0
 +5 Dexterity Vest, 0, 18
 +5 Dexterity Vest, 0, 18
@@ -269,6 +307,7 @@ Items after day 2
 +5 Dexterity Vest, 0, 47
 +5 Dexterity Vest, 0, 5
 +5 Dexterity Vest, 0, 78
++5 Dexterity Vest, 1, -1
 +5 Dexterity Vest, 1, 0
 +5 Dexterity Vest, 1, 18
 +5 Dexterity Vest, 1, 18
@@ -276,6 +315,7 @@ Items after day 2
 +5 Dexterity Vest, 1, 47
 +5 Dexterity Vest, 1, 5
 +5 Dexterity Vest, 1, 78
++5 Dexterity Vest, 13, -1
 +5 Dexterity Vest, 13, 0
 +5 Dexterity Vest, 13, 18
 +5 Dexterity Vest, 13, 18
@@ -283,6 +323,7 @@ Items after day 2
 +5 Dexterity Vest, 13, 47
 +5 Dexterity Vest, 13, 5
 +5 Dexterity Vest, 13, 78
++5 Dexterity Vest, 3, -1
 +5 Dexterity Vest, 3, 0
 +5 Dexterity Vest, 3, 18
 +5 Dexterity Vest, 3, 18
@@ -290,6 +331,7 @@ Items after day 2
 +5 Dexterity Vest, 3, 47
 +5 Dexterity Vest, 3, 5
 +5 Dexterity Vest, 3, 78
++5 Dexterity Vest, 8, -1
 +5 Dexterity Vest, 8, 0
 +5 Dexterity Vest, 8, 18
 +5 Dexterity Vest, 8, 18
@@ -301,6 +343,7 @@ Aged Brie, -2, 10
 Aged Brie, -2, 11
 Aged Brie, -2, 24
 Aged Brie, -2, 24
+Aged Brie, -2, 3
 Aged Brie, -2, 4
 Aged Brie, -2, 50
 Aged Brie, -2, 80
@@ -308,9 +351,11 @@ Aged Brie, -3, 10
 Aged Brie, -3, 11
 Aged Brie, -3, 24
 Aged Brie, -3, 24
+Aged Brie, -3, 3
 Aged Brie, -3, 4
 Aged Brie, -3, 50
 Aged Brie, -3, 80
+Aged Brie, 0, 1
 Aged Brie, 0, 2
 Aged Brie, 0, 22
 Aged Brie, 0, 22
@@ -318,6 +363,7 @@ Aged Brie, 0, 50
 Aged Brie, 0, 8
 Aged Brie, 0, 80
 Aged Brie, 0, 9
+Aged Brie, 1, 1
 Aged Brie, 1, 2
 Aged Brie, 1, 22
 Aged Brie, 1, 22
@@ -325,6 +371,7 @@ Aged Brie, 1, 50
 Aged Brie, 1, 8
 Aged Brie, 1, 80
 Aged Brie, 1, 9
+Aged Brie, 13, 1
 Aged Brie, 13, 2
 Aged Brie, 13, 22
 Aged Brie, 13, 22
@@ -332,6 +379,7 @@ Aged Brie, 13, 50
 Aged Brie, 13, 8
 Aged Brie, 13, 80
 Aged Brie, 13, 9
+Aged Brie, 3, 1
 Aged Brie, 3, 2
 Aged Brie, 3, 22
 Aged Brie, 3, 22
@@ -339,6 +387,7 @@ Aged Brie, 3, 50
 Aged Brie, 3, 8
 Aged Brie, 3, 80
 Aged Brie, 3, 9
+Aged Brie, 8, 1
 Aged Brie, 8, 2
 Aged Brie, 8, 22
 Aged Brie, 8, 22
@@ -353,6 +402,8 @@ Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
@@ -364,6 +415,7 @@ Backstage passes to a TAFKAL80ETC concert, 0, 12
 Backstage passes to a TAFKAL80ETC concert, 0, 13
 Backstage passes to a TAFKAL80ETC concert, 0, 26
 Backstage passes to a TAFKAL80ETC concert, 0, 26
+Backstage passes to a TAFKAL80ETC concert, 0, 5
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 6
 Backstage passes to a TAFKAL80ETC concert, 0, 80
@@ -371,9 +423,11 @@ Backstage passes to a TAFKAL80ETC concert, 1, 12
 Backstage passes to a TAFKAL80ETC concert, 1, 13
 Backstage passes to a TAFKAL80ETC concert, 1, 26
 Backstage passes to a TAFKAL80ETC concert, 1, 26
+Backstage passes to a TAFKAL80ETC concert, 1, 5
 Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 6
 Backstage passes to a TAFKAL80ETC concert, 1, 80
+Backstage passes to a TAFKAL80ETC concert, 13, 1
 Backstage passes to a TAFKAL80ETC concert, 13, 2
 Backstage passes to a TAFKAL80ETC concert, 13, 22
 Backstage passes to a TAFKAL80ETC concert, 13, 22
@@ -385,6 +439,7 @@ Backstage passes to a TAFKAL80ETC concert, 3, 12
 Backstage passes to a TAFKAL80ETC concert, 3, 13
 Backstage passes to a TAFKAL80ETC concert, 3, 26
 Backstage passes to a TAFKAL80ETC concert, 3, 26
+Backstage passes to a TAFKAL80ETC concert, 3, 5
 Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 6
 Backstage passes to a TAFKAL80ETC concert, 3, 80
@@ -392,9 +447,11 @@ Backstage passes to a TAFKAL80ETC concert, 8, 10
 Backstage passes to a TAFKAL80ETC concert, 8, 11
 Backstage passes to a TAFKAL80ETC concert, 8, 24
 Backstage passes to a TAFKAL80ETC concert, 8, 24
+Backstage passes to a TAFKAL80ETC concert, 8, 3
 Backstage passes to a TAFKAL80ETC concert, 8, 4
 Backstage passes to a TAFKAL80ETC concert, 8, 50
 Backstage passes to a TAFKAL80ETC concert, 8, 80
+Elixir of the Mongoose, -2, -1
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 16
 Elixir of the Mongoose, -2, 16
@@ -402,6 +459,7 @@ Elixir of the Mongoose, -2, 2
 Elixir of the Mongoose, -2, 3
 Elixir of the Mongoose, -2, 45
 Elixir of the Mongoose, -2, 76
+Elixir of the Mongoose, -3, -1
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 16
 Elixir of the Mongoose, -3, 16
@@ -409,6 +467,7 @@ Elixir of the Mongoose, -3, 2
 Elixir of the Mongoose, -3, 3
 Elixir of the Mongoose, -3, 45
 Elixir of the Mongoose, -3, 76
+Elixir of the Mongoose, 0, -1
 Elixir of the Mongoose, 0, 0
 Elixir of the Mongoose, 0, 18
 Elixir of the Mongoose, 0, 18
@@ -416,6 +475,7 @@ Elixir of the Mongoose, 0, 4
 Elixir of the Mongoose, 0, 47
 Elixir of the Mongoose, 0, 5
 Elixir of the Mongoose, 0, 78
+Elixir of the Mongoose, 1, -1
 Elixir of the Mongoose, 1, 0
 Elixir of the Mongoose, 1, 18
 Elixir of the Mongoose, 1, 18
@@ -423,6 +483,7 @@ Elixir of the Mongoose, 1, 4
 Elixir of the Mongoose, 1, 47
 Elixir of the Mongoose, 1, 5
 Elixir of the Mongoose, 1, 78
+Elixir of the Mongoose, 13, -1
 Elixir of the Mongoose, 13, 0
 Elixir of the Mongoose, 13, 18
 Elixir of the Mongoose, 13, 18
@@ -430,6 +491,7 @@ Elixir of the Mongoose, 13, 4
 Elixir of the Mongoose, 13, 47
 Elixir of the Mongoose, 13, 5
 Elixir of the Mongoose, 13, 78
+Elixir of the Mongoose, 3, -1
 Elixir of the Mongoose, 3, 0
 Elixir of the Mongoose, 3, 18
 Elixir of the Mongoose, 3, 18
@@ -437,6 +499,7 @@ Elixir of the Mongoose, 3, 4
 Elixir of the Mongoose, 3, 47
 Elixir of the Mongoose, 3, 5
 Elixir of the Mongoose, 3, 78
+Elixir of the Mongoose, 8, -1
 Elixir of the Mongoose, 8, 0
 Elixir of the Mongoose, 8, 18
 Elixir of the Mongoose, 8, 18
@@ -444,6 +507,7 @@ Elixir of the Mongoose, 8, 4
 Elixir of the Mongoose, 8, 47
 Elixir of the Mongoose, 8, 5
 Elixir of the Mongoose, 8, 78
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -451,6 +515,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -458,6 +523,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -465,6 +531,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -472,6 +539,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -479,6 +547,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -486,6 +555,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -494,6 +564,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 3
++5 Dexterity Vest, -1, -1
 +5 Dexterity Vest, -1, 0
 +5 Dexterity Vest, -1, 16
 +5 Dexterity Vest, -1, 16
@@ -501,6 +572,7 @@ Items after day 3
 +5 Dexterity Vest, -1, 3
 +5 Dexterity Vest, -1, 45
 +5 Dexterity Vest, -1, 76
++5 Dexterity Vest, -3, -1
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 1
@@ -508,6 +580,7 @@ Items after day 3
 +5 Dexterity Vest, -3, 14
 +5 Dexterity Vest, -3, 43
 +5 Dexterity Vest, -3, 74
++5 Dexterity Vest, -4, -1
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 1
@@ -515,6 +588,7 @@ Items after day 3
 +5 Dexterity Vest, -4, 14
 +5 Dexterity Vest, -4, 43
 +5 Dexterity Vest, -4, 74
++5 Dexterity Vest, 0, -1
 +5 Dexterity Vest, 0, 0
 +5 Dexterity Vest, 0, 17
 +5 Dexterity Vest, 0, 17
@@ -522,6 +596,7 @@ Items after day 3
 +5 Dexterity Vest, 0, 4
 +5 Dexterity Vest, 0, 46
 +5 Dexterity Vest, 0, 77
++5 Dexterity Vest, 12, -1
 +5 Dexterity Vest, 12, 0
 +5 Dexterity Vest, 12, 17
 +5 Dexterity Vest, 12, 17
@@ -529,6 +604,7 @@ Items after day 3
 +5 Dexterity Vest, 12, 4
 +5 Dexterity Vest, 12, 46
 +5 Dexterity Vest, 12, 77
++5 Dexterity Vest, 2, -1
 +5 Dexterity Vest, 2, 0
 +5 Dexterity Vest, 2, 17
 +5 Dexterity Vest, 2, 17
@@ -536,6 +612,7 @@ Items after day 3
 +5 Dexterity Vest, 2, 4
 +5 Dexterity Vest, 2, 46
 +5 Dexterity Vest, 2, 77
++5 Dexterity Vest, 7, -1
 +5 Dexterity Vest, 7, 0
 +5 Dexterity Vest, 7, 17
 +5 Dexterity Vest, 7, 17
@@ -547,6 +624,7 @@ Aged Brie, -1, 10
 Aged Brie, -1, 11
 Aged Brie, -1, 24
 Aged Brie, -1, 24
+Aged Brie, -1, 3
 Aged Brie, -1, 4
 Aged Brie, -1, 50
 Aged Brie, -1, 80
@@ -554,6 +632,7 @@ Aged Brie, -3, 12
 Aged Brie, -3, 13
 Aged Brie, -3, 26
 Aged Brie, -3, 26
+Aged Brie, -3, 5
 Aged Brie, -3, 50
 Aged Brie, -3, 6
 Aged Brie, -3, 80
@@ -561,10 +640,12 @@ Aged Brie, -4, 12
 Aged Brie, -4, 13
 Aged Brie, -4, 26
 Aged Brie, -4, 26
+Aged Brie, -4, 5
 Aged Brie, -4, 50
 Aged Brie, -4, 6
 Aged Brie, -4, 80
 Aged Brie, 0, 10
+Aged Brie, 0, 2
 Aged Brie, 0, 23
 Aged Brie, 0, 23
 Aged Brie, 0, 3
@@ -572,6 +653,7 @@ Aged Brie, 0, 50
 Aged Brie, 0, 80
 Aged Brie, 0, 9
 Aged Brie, 12, 10
+Aged Brie, 12, 2
 Aged Brie, 12, 23
 Aged Brie, 12, 23
 Aged Brie, 12, 3
@@ -579,6 +661,7 @@ Aged Brie, 12, 50
 Aged Brie, 12, 80
 Aged Brie, 12, 9
 Aged Brie, 2, 10
+Aged Brie, 2, 2
 Aged Brie, 2, 23
 Aged Brie, 2, 23
 Aged Brie, 2, 3
@@ -586,6 +669,7 @@ Aged Brie, 2, 50
 Aged Brie, 2, 80
 Aged Brie, 2, 9
 Aged Brie, 7, 10
+Aged Brie, 7, 2
 Aged Brie, 7, 23
 Aged Brie, 7, 23
 Aged Brie, 7, 3
@@ -599,6 +683,7 @@ Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
@@ -606,6 +691,8 @@ Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
@@ -618,9 +705,11 @@ Backstage passes to a TAFKAL80ETC concert, 0, 16
 Backstage passes to a TAFKAL80ETC concert, 0, 29
 Backstage passes to a TAFKAL80ETC concert, 0, 29
 Backstage passes to a TAFKAL80ETC concert, 0, 50
+Backstage passes to a TAFKAL80ETC concert, 0, 8
 Backstage passes to a TAFKAL80ETC concert, 0, 80
 Backstage passes to a TAFKAL80ETC concert, 0, 9
 Backstage passes to a TAFKAL80ETC concert, 12, 10
+Backstage passes to a TAFKAL80ETC concert, 12, 2
 Backstage passes to a TAFKAL80ETC concert, 12, 23
 Backstage passes to a TAFKAL80ETC concert, 12, 23
 Backstage passes to a TAFKAL80ETC concert, 12, 3
@@ -632,15 +721,18 @@ Backstage passes to a TAFKAL80ETC concert, 2, 16
 Backstage passes to a TAFKAL80ETC concert, 2, 29
 Backstage passes to a TAFKAL80ETC concert, 2, 29
 Backstage passes to a TAFKAL80ETC concert, 2, 50
+Backstage passes to a TAFKAL80ETC concert, 2, 8
 Backstage passes to a TAFKAL80ETC concert, 2, 80
 Backstage passes to a TAFKAL80ETC concert, 2, 9
 Backstage passes to a TAFKAL80ETC concert, 7, 12
 Backstage passes to a TAFKAL80ETC concert, 7, 13
 Backstage passes to a TAFKAL80ETC concert, 7, 26
 Backstage passes to a TAFKAL80ETC concert, 7, 26
+Backstage passes to a TAFKAL80ETC concert, 7, 5
 Backstage passes to a TAFKAL80ETC concert, 7, 50
 Backstage passes to a TAFKAL80ETC concert, 7, 6
 Backstage passes to a TAFKAL80ETC concert, 7, 80
+Elixir of the Mongoose, -1, -1
 Elixir of the Mongoose, -1, 0
 Elixir of the Mongoose, -1, 16
 Elixir of the Mongoose, -1, 16
@@ -648,6 +740,7 @@ Elixir of the Mongoose, -1, 2
 Elixir of the Mongoose, -1, 3
 Elixir of the Mongoose, -1, 45
 Elixir of the Mongoose, -1, 76
+Elixir of the Mongoose, -3, -1
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 1
@@ -655,6 +748,7 @@ Elixir of the Mongoose, -3, 14
 Elixir of the Mongoose, -3, 14
 Elixir of the Mongoose, -3, 43
 Elixir of the Mongoose, -3, 74
+Elixir of the Mongoose, -4, -1
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 1
@@ -662,6 +756,7 @@ Elixir of the Mongoose, -4, 14
 Elixir of the Mongoose, -4, 14
 Elixir of the Mongoose, -4, 43
 Elixir of the Mongoose, -4, 74
+Elixir of the Mongoose, 0, -1
 Elixir of the Mongoose, 0, 0
 Elixir of the Mongoose, 0, 17
 Elixir of the Mongoose, 0, 17
@@ -669,6 +764,7 @@ Elixir of the Mongoose, 0, 3
 Elixir of the Mongoose, 0, 4
 Elixir of the Mongoose, 0, 46
 Elixir of the Mongoose, 0, 77
+Elixir of the Mongoose, 12, -1
 Elixir of the Mongoose, 12, 0
 Elixir of the Mongoose, 12, 17
 Elixir of the Mongoose, 12, 17
@@ -676,6 +772,7 @@ Elixir of the Mongoose, 12, 3
 Elixir of the Mongoose, 12, 4
 Elixir of the Mongoose, 12, 46
 Elixir of the Mongoose, 12, 77
+Elixir of the Mongoose, 2, -1
 Elixir of the Mongoose, 2, 0
 Elixir of the Mongoose, 2, 17
 Elixir of the Mongoose, 2, 17
@@ -683,6 +780,7 @@ Elixir of the Mongoose, 2, 3
 Elixir of the Mongoose, 2, 4
 Elixir of the Mongoose, 2, 46
 Elixir of the Mongoose, 2, 77
+Elixir of the Mongoose, 7, -1
 Elixir of the Mongoose, 7, 0
 Elixir of the Mongoose, 7, 17
 Elixir of the Mongoose, 7, 17
@@ -690,6 +788,7 @@ Elixir of the Mongoose, 7, 3
 Elixir of the Mongoose, 7, 4
 Elixir of the Mongoose, 7, 46
 Elixir of the Mongoose, 7, 77
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -697,6 +796,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -704,6 +804,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -711,6 +812,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -718,6 +820,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -725,6 +828,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -732,6 +836,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -740,6 +845,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 4
++5 Dexterity Vest, -1, -1
 +5 Dexterity Vest, -1, 0
 +5 Dexterity Vest, -1, 1
 +5 Dexterity Vest, -1, 15
@@ -747,6 +853,7 @@ Items after day 4
 +5 Dexterity Vest, -1, 2
 +5 Dexterity Vest, -1, 44
 +5 Dexterity Vest, -1, 75
++5 Dexterity Vest, -2, -1
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 1
@@ -754,6 +861,7 @@ Items after day 4
 +5 Dexterity Vest, -2, 14
 +5 Dexterity Vest, -2, 43
 +5 Dexterity Vest, -2, 74
++5 Dexterity Vest, -4, -1
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
@@ -761,6 +869,7 @@ Items after day 4
 +5 Dexterity Vest, -4, 12
 +5 Dexterity Vest, -4, 41
 +5 Dexterity Vest, -4, 72
++5 Dexterity Vest, -5, -1
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
@@ -768,6 +877,7 @@ Items after day 4
 +5 Dexterity Vest, -5, 12
 +5 Dexterity Vest, -5, 41
 +5 Dexterity Vest, -5, 72
++5 Dexterity Vest, 1, -1
 +5 Dexterity Vest, 1, 0
 +5 Dexterity Vest, 1, 16
 +5 Dexterity Vest, 1, 16
@@ -775,6 +885,7 @@ Items after day 4
 +5 Dexterity Vest, 1, 3
 +5 Dexterity Vest, 1, 45
 +5 Dexterity Vest, 1, 76
++5 Dexterity Vest, 11, -1
 +5 Dexterity Vest, 11, 0
 +5 Dexterity Vest, 11, 16
 +5 Dexterity Vest, 11, 16
@@ -782,6 +893,7 @@ Items after day 4
 +5 Dexterity Vest, 11, 3
 +5 Dexterity Vest, 11, 45
 +5 Dexterity Vest, 11, 76
++5 Dexterity Vest, 6, -1
 +5 Dexterity Vest, 6, 0
 +5 Dexterity Vest, 6, 16
 +5 Dexterity Vest, 6, 16
@@ -793,6 +905,7 @@ Aged Brie, -1, 11
 Aged Brie, -1, 12
 Aged Brie, -1, 25
 Aged Brie, -1, 25
+Aged Brie, -1, 4
 Aged Brie, -1, 5
 Aged Brie, -1, 50
 Aged Brie, -1, 80
@@ -800,6 +913,7 @@ Aged Brie, -2, 12
 Aged Brie, -2, 13
 Aged Brie, -2, 26
 Aged Brie, -2, 26
+Aged Brie, -2, 5
 Aged Brie, -2, 50
 Aged Brie, -2, 6
 Aged Brie, -2, 80
@@ -808,6 +922,7 @@ Aged Brie, -4, 15
 Aged Brie, -4, 28
 Aged Brie, -4, 28
 Aged Brie, -4, 50
+Aged Brie, -4, 7
 Aged Brie, -4, 8
 Aged Brie, -4, 80
 Aged Brie, -5, 14
@@ -815,12 +930,14 @@ Aged Brie, -5, 15
 Aged Brie, -5, 28
 Aged Brie, -5, 28
 Aged Brie, -5, 50
+Aged Brie, -5, 7
 Aged Brie, -5, 8
 Aged Brie, -5, 80
 Aged Brie, 1, 10
 Aged Brie, 1, 11
 Aged Brie, 1, 24
 Aged Brie, 1, 24
+Aged Brie, 1, 3
 Aged Brie, 1, 4
 Aged Brie, 1, 50
 Aged Brie, 1, 80
@@ -828,6 +945,7 @@ Aged Brie, 11, 10
 Aged Brie, 11, 11
 Aged Brie, 11, 24
 Aged Brie, 11, 24
+Aged Brie, 11, 3
 Aged Brie, 11, 4
 Aged Brie, 11, 50
 Aged Brie, 11, 80
@@ -835,6 +953,7 @@ Aged Brie, 6, 10
 Aged Brie, 6, 11
 Aged Brie, 6, 24
 Aged Brie, 6, 24
+Aged Brie, 6, 3
 Aged Brie, 6, 4
 Aged Brie, 6, 50
 Aged Brie, 6, 80
@@ -845,6 +964,8 @@ Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
@@ -859,6 +980,7 @@ Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
+Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
@@ -866,6 +988,8 @@ Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, 1, 11
 Backstage passes to a TAFKAL80ETC concert, 1, 12
 Backstage passes to a TAFKAL80ETC concert, 1, 18
 Backstage passes to a TAFKAL80ETC concert, 1, 19
@@ -877,6 +1001,7 @@ Backstage passes to a TAFKAL80ETC concert, 11, 10
 Backstage passes to a TAFKAL80ETC concert, 11, 11
 Backstage passes to a TAFKAL80ETC concert, 11, 24
 Backstage passes to a TAFKAL80ETC concert, 11, 24
+Backstage passes to a TAFKAL80ETC concert, 11, 3
 Backstage passes to a TAFKAL80ETC concert, 11, 4
 Backstage passes to a TAFKAL80ETC concert, 11, 50
 Backstage passes to a TAFKAL80ETC concert, 11, 80
@@ -885,8 +1010,10 @@ Backstage passes to a TAFKAL80ETC concert, 6, 15
 Backstage passes to a TAFKAL80ETC concert, 6, 28
 Backstage passes to a TAFKAL80ETC concert, 6, 28
 Backstage passes to a TAFKAL80ETC concert, 6, 50
+Backstage passes to a TAFKAL80ETC concert, 6, 7
 Backstage passes to a TAFKAL80ETC concert, 6, 8
 Backstage passes to a TAFKAL80ETC concert, 6, 80
+Elixir of the Mongoose, -1, -1
 Elixir of the Mongoose, -1, 0
 Elixir of the Mongoose, -1, 1
 Elixir of the Mongoose, -1, 15
@@ -894,6 +1021,7 @@ Elixir of the Mongoose, -1, 15
 Elixir of the Mongoose, -1, 2
 Elixir of the Mongoose, -1, 44
 Elixir of the Mongoose, -1, 75
+Elixir of the Mongoose, -2, -1
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 1
@@ -901,6 +1029,7 @@ Elixir of the Mongoose, -2, 14
 Elixir of the Mongoose, -2, 14
 Elixir of the Mongoose, -2, 43
 Elixir of the Mongoose, -2, 74
+Elixir of the Mongoose, -4, -1
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
@@ -908,6 +1037,7 @@ Elixir of the Mongoose, -4, 12
 Elixir of the Mongoose, -4, 12
 Elixir of the Mongoose, -4, 41
 Elixir of the Mongoose, -4, 72
+Elixir of the Mongoose, -5, -1
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
@@ -915,6 +1045,7 @@ Elixir of the Mongoose, -5, 12
 Elixir of the Mongoose, -5, 12
 Elixir of the Mongoose, -5, 41
 Elixir of the Mongoose, -5, 72
+Elixir of the Mongoose, 1, -1
 Elixir of the Mongoose, 1, 0
 Elixir of the Mongoose, 1, 16
 Elixir of the Mongoose, 1, 16
@@ -922,6 +1053,7 @@ Elixir of the Mongoose, 1, 2
 Elixir of the Mongoose, 1, 3
 Elixir of the Mongoose, 1, 45
 Elixir of the Mongoose, 1, 76
+Elixir of the Mongoose, 11, -1
 Elixir of the Mongoose, 11, 0
 Elixir of the Mongoose, 11, 16
 Elixir of the Mongoose, 11, 16
@@ -929,6 +1061,7 @@ Elixir of the Mongoose, 11, 2
 Elixir of the Mongoose, 11, 3
 Elixir of the Mongoose, 11, 45
 Elixir of the Mongoose, 11, 76
+Elixir of the Mongoose, 6, -1
 Elixir of the Mongoose, 6, 0
 Elixir of the Mongoose, 6, 16
 Elixir of the Mongoose, 6, 16
@@ -936,6 +1069,7 @@ Elixir of the Mongoose, 6, 2
 Elixir of the Mongoose, 6, 3
 Elixir of the Mongoose, 6, 45
 Elixir of the Mongoose, 6, 76
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -943,6 +1077,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -950,6 +1085,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -957,6 +1093,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -964,6 +1101,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -971,6 +1109,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -978,6 +1117,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -986,6 +1126,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 5
++5 Dexterity Vest, -2, -1
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 0
@@ -993,6 +1134,7 @@ Items after day 5
 +5 Dexterity Vest, -2, 13
 +5 Dexterity Vest, -2, 42
 +5 Dexterity Vest, -2, 73
++5 Dexterity Vest, -3, -1
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
@@ -1000,6 +1142,7 @@ Items after day 5
 +5 Dexterity Vest, -3, 12
 +5 Dexterity Vest, -3, 41
 +5 Dexterity Vest, -3, 72
++5 Dexterity Vest, -5, -1
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
@@ -1007,6 +1150,7 @@ Items after day 5
 +5 Dexterity Vest, -5, 10
 +5 Dexterity Vest, -5, 39
 +5 Dexterity Vest, -5, 70
++5 Dexterity Vest, -6, -1
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
@@ -1014,6 +1158,7 @@ Items after day 5
 +5 Dexterity Vest, -6, 10
 +5 Dexterity Vest, -6, 39
 +5 Dexterity Vest, -6, 70
++5 Dexterity Vest, 0, -1
 +5 Dexterity Vest, 0, 0
 +5 Dexterity Vest, 0, 1
 +5 Dexterity Vest, 0, 15
@@ -1021,6 +1166,7 @@ Items after day 5
 +5 Dexterity Vest, 0, 2
 +5 Dexterity Vest, 0, 44
 +5 Dexterity Vest, 0, 75
++5 Dexterity Vest, 10, -1
 +5 Dexterity Vest, 10, 0
 +5 Dexterity Vest, 10, 1
 +5 Dexterity Vest, 10, 15
@@ -1028,6 +1174,7 @@ Items after day 5
 +5 Dexterity Vest, 10, 2
 +5 Dexterity Vest, 10, 44
 +5 Dexterity Vest, 10, 75
++5 Dexterity Vest, 5, -1
 +5 Dexterity Vest, 5, 0
 +5 Dexterity Vest, 5, 1
 +5 Dexterity Vest, 5, 15
@@ -1040,6 +1187,7 @@ Aged Brie, -2, 14
 Aged Brie, -2, 27
 Aged Brie, -2, 27
 Aged Brie, -2, 50
+Aged Brie, -2, 6
 Aged Brie, -2, 7
 Aged Brie, -2, 80
 Aged Brie, -3, 14
@@ -1047,6 +1195,7 @@ Aged Brie, -3, 15
 Aged Brie, -3, 28
 Aged Brie, -3, 28
 Aged Brie, -3, 50
+Aged Brie, -3, 7
 Aged Brie, -3, 8
 Aged Brie, -3, 80
 Aged Brie, -5, 10
@@ -1056,6 +1205,7 @@ Aged Brie, -5, 30
 Aged Brie, -5, 30
 Aged Brie, -5, 50
 Aged Brie, -5, 80
+Aged Brie, -5, 9
 Aged Brie, -6, 10
 Aged Brie, -6, 16
 Aged Brie, -6, 17
@@ -1063,10 +1213,12 @@ Aged Brie, -6, 30
 Aged Brie, -6, 30
 Aged Brie, -6, 50
 Aged Brie, -6, 80
+Aged Brie, -6, 9
 Aged Brie, 0, 11
 Aged Brie, 0, 12
 Aged Brie, 0, 25
 Aged Brie, 0, 25
+Aged Brie, 0, 4
 Aged Brie, 0, 5
 Aged Brie, 0, 50
 Aged Brie, 0, 80
@@ -1074,6 +1226,7 @@ Aged Brie, 10, 11
 Aged Brie, 10, 12
 Aged Brie, 10, 25
 Aged Brie, 10, 25
+Aged Brie, 10, 4
 Aged Brie, 10, 5
 Aged Brie, 10, 50
 Aged Brie, 10, 80
@@ -1081,6 +1234,7 @@ Aged Brie, 5, 11
 Aged Brie, 5, 12
 Aged Brie, 5, 25
 Aged Brie, 5, 25
+Aged Brie, 5, 4
 Aged Brie, 5, 5
 Aged Brie, 5, 50
 Aged Brie, 5, 80
@@ -1091,6 +1245,8 @@ Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
@@ -1105,6 +1261,7 @@ Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
@@ -1112,6 +1269,8 @@ Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 14
 Backstage passes to a TAFKAL80ETC concert, 0, 15
 Backstage passes to a TAFKAL80ETC concert, 0, 21
 Backstage passes to a TAFKAL80ETC concert, 0, 22
@@ -1123,6 +1282,7 @@ Backstage passes to a TAFKAL80ETC concert, 10, 11
 Backstage passes to a TAFKAL80ETC concert, 10, 12
 Backstage passes to a TAFKAL80ETC concert, 10, 25
 Backstage passes to a TAFKAL80ETC concert, 10, 25
+Backstage passes to a TAFKAL80ETC concert, 10, 4
 Backstage passes to a TAFKAL80ETC concert, 10, 5
 Backstage passes to a TAFKAL80ETC concert, 10, 50
 Backstage passes to a TAFKAL80ETC concert, 10, 80
@@ -1133,6 +1293,8 @@ Backstage passes to a TAFKAL80ETC concert, 5, 30
 Backstage passes to a TAFKAL80ETC concert, 5, 30
 Backstage passes to a TAFKAL80ETC concert, 5, 50
 Backstage passes to a TAFKAL80ETC concert, 5, 80
+Backstage passes to a TAFKAL80ETC concert, 5, 9
+Elixir of the Mongoose, -2, -1
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 0
@@ -1140,6 +1302,7 @@ Elixir of the Mongoose, -2, 13
 Elixir of the Mongoose, -2, 13
 Elixir of the Mongoose, -2, 42
 Elixir of the Mongoose, -2, 73
+Elixir of the Mongoose, -3, -1
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
@@ -1147,6 +1310,7 @@ Elixir of the Mongoose, -3, 12
 Elixir of the Mongoose, -3, 12
 Elixir of the Mongoose, -3, 41
 Elixir of the Mongoose, -3, 72
+Elixir of the Mongoose, -5, -1
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
@@ -1154,6 +1318,7 @@ Elixir of the Mongoose, -5, 10
 Elixir of the Mongoose, -5, 10
 Elixir of the Mongoose, -5, 39
 Elixir of the Mongoose, -5, 70
+Elixir of the Mongoose, -6, -1
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
@@ -1161,6 +1326,7 @@ Elixir of the Mongoose, -6, 10
 Elixir of the Mongoose, -6, 10
 Elixir of the Mongoose, -6, 39
 Elixir of the Mongoose, -6, 70
+Elixir of the Mongoose, 0, -1
 Elixir of the Mongoose, 0, 0
 Elixir of the Mongoose, 0, 1
 Elixir of the Mongoose, 0, 15
@@ -1168,6 +1334,7 @@ Elixir of the Mongoose, 0, 15
 Elixir of the Mongoose, 0, 2
 Elixir of the Mongoose, 0, 44
 Elixir of the Mongoose, 0, 75
+Elixir of the Mongoose, 10, -1
 Elixir of the Mongoose, 10, 0
 Elixir of the Mongoose, 10, 1
 Elixir of the Mongoose, 10, 15
@@ -1175,6 +1342,7 @@ Elixir of the Mongoose, 10, 15
 Elixir of the Mongoose, 10, 2
 Elixir of the Mongoose, 10, 44
 Elixir of the Mongoose, 10, 75
+Elixir of the Mongoose, 5, -1
 Elixir of the Mongoose, 5, 0
 Elixir of the Mongoose, 5, 1
 Elixir of the Mongoose, 5, 15
@@ -1182,6 +1350,7 @@ Elixir of the Mongoose, 5, 15
 Elixir of the Mongoose, 5, 2
 Elixir of the Mongoose, 5, 44
 Elixir of the Mongoose, 5, 75
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -1189,6 +1358,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -1196,6 +1366,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -1203,6 +1374,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -1210,6 +1382,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -1217,6 +1390,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -1224,6 +1398,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -1232,6 +1407,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 6
++5 Dexterity Vest, -1, -1
 +5 Dexterity Vest, -1, 0
 +5 Dexterity Vest, -1, 0
 +5 Dexterity Vest, -1, 0
@@ -1239,6 +1415,7 @@ Items after day 6
 +5 Dexterity Vest, -1, 13
 +5 Dexterity Vest, -1, 42
 +5 Dexterity Vest, -1, 73
++5 Dexterity Vest, -3, -1
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
@@ -1246,6 +1423,7 @@ Items after day 6
 +5 Dexterity Vest, -3, 11
 +5 Dexterity Vest, -3, 40
 +5 Dexterity Vest, -3, 71
++5 Dexterity Vest, -4, -1
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
@@ -1253,6 +1431,7 @@ Items after day 6
 +5 Dexterity Vest, -4, 10
 +5 Dexterity Vest, -4, 39
 +5 Dexterity Vest, -4, 70
++5 Dexterity Vest, -6, -1
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
@@ -1260,6 +1439,7 @@ Items after day 6
 +5 Dexterity Vest, -6, 68
 +5 Dexterity Vest, -6, 8
 +5 Dexterity Vest, -6, 8
++5 Dexterity Vest, -7, -1
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
@@ -1267,6 +1447,7 @@ Items after day 6
 +5 Dexterity Vest, -7, 68
 +5 Dexterity Vest, -7, 8
 +5 Dexterity Vest, -7, 8
++5 Dexterity Vest, 4, -1
 +5 Dexterity Vest, 4, 0
 +5 Dexterity Vest, 4, 0
 +5 Dexterity Vest, 4, 1
@@ -1274,6 +1455,7 @@ Items after day 6
 +5 Dexterity Vest, 4, 14
 +5 Dexterity Vest, 4, 43
 +5 Dexterity Vest, 4, 74
++5 Dexterity Vest, 9, -1
 +5 Dexterity Vest, 9, 0
 +5 Dexterity Vest, 9, 0
 +5 Dexterity Vest, 9, 1
@@ -1286,6 +1468,7 @@ Aged Brie, -1, 14
 Aged Brie, -1, 27
 Aged Brie, -1, 27
 Aged Brie, -1, 50
+Aged Brie, -1, 6
 Aged Brie, -1, 7
 Aged Brie, -1, 80
 Aged Brie, -3, 15
@@ -1293,6 +1476,7 @@ Aged Brie, -3, 16
 Aged Brie, -3, 29
 Aged Brie, -3, 29
 Aged Brie, -3, 50
+Aged Brie, -3, 8
 Aged Brie, -3, 80
 Aged Brie, -3, 9
 Aged Brie, -4, 10
@@ -1302,6 +1486,8 @@ Aged Brie, -4, 30
 Aged Brie, -4, 30
 Aged Brie, -4, 50
 Aged Brie, -4, 80
+Aged Brie, -4, 9
+Aged Brie, -6, 11
 Aged Brie, -6, 12
 Aged Brie, -6, 18
 Aged Brie, -6, 19
@@ -1309,6 +1495,7 @@ Aged Brie, -6, 32
 Aged Brie, -6, 32
 Aged Brie, -6, 50
 Aged Brie, -6, 80
+Aged Brie, -7, 11
 Aged Brie, -7, 12
 Aged Brie, -7, 18
 Aged Brie, -7, 19
@@ -1320,6 +1507,7 @@ Aged Brie, 4, 12
 Aged Brie, 4, 13
 Aged Brie, 4, 26
 Aged Brie, 4, 26
+Aged Brie, 4, 5
 Aged Brie, 4, 50
 Aged Brie, 4, 6
 Aged Brie, 4, 80
@@ -1327,6 +1515,7 @@ Aged Brie, 9, 12
 Aged Brie, 9, 13
 Aged Brie, 9, 26
 Aged Brie, 9, 26
+Aged Brie, 9, 5
 Aged Brie, 9, 50
 Aged Brie, 9, 6
 Aged Brie, 9, 80
@@ -1337,6 +1526,8 @@ Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
@@ -1351,6 +1542,8 @@ Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
+Backstage passes to a TAFKAL80ETC concert, -4, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
@@ -1365,6 +1558,8 @@ Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, 4, 12
 Backstage passes to a TAFKAL80ETC concert, 4, 13
 Backstage passes to a TAFKAL80ETC concert, 4, 19
 Backstage passes to a TAFKAL80ETC concert, 4, 20
@@ -1377,8 +1572,10 @@ Backstage passes to a TAFKAL80ETC concert, 9, 14
 Backstage passes to a TAFKAL80ETC concert, 9, 27
 Backstage passes to a TAFKAL80ETC concert, 9, 27
 Backstage passes to a TAFKAL80ETC concert, 9, 50
+Backstage passes to a TAFKAL80ETC concert, 9, 6
 Backstage passes to a TAFKAL80ETC concert, 9, 7
 Backstage passes to a TAFKAL80ETC concert, 9, 80
+Elixir of the Mongoose, -1, -1
 Elixir of the Mongoose, -1, 0
 Elixir of the Mongoose, -1, 0
 Elixir of the Mongoose, -1, 0
@@ -1386,6 +1583,7 @@ Elixir of the Mongoose, -1, 13
 Elixir of the Mongoose, -1, 13
 Elixir of the Mongoose, -1, 42
 Elixir of the Mongoose, -1, 73
+Elixir of the Mongoose, -3, -1
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
@@ -1393,6 +1591,7 @@ Elixir of the Mongoose, -3, 11
 Elixir of the Mongoose, -3, 11
 Elixir of the Mongoose, -3, 40
 Elixir of the Mongoose, -3, 71
+Elixir of the Mongoose, -4, -1
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
@@ -1400,6 +1599,7 @@ Elixir of the Mongoose, -4, 10
 Elixir of the Mongoose, -4, 10
 Elixir of the Mongoose, -4, 39
 Elixir of the Mongoose, -4, 70
+Elixir of the Mongoose, -6, -1
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
@@ -1407,6 +1607,7 @@ Elixir of the Mongoose, -6, 37
 Elixir of the Mongoose, -6, 68
 Elixir of the Mongoose, -6, 8
 Elixir of the Mongoose, -6, 8
+Elixir of the Mongoose, -7, -1
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
@@ -1414,6 +1615,7 @@ Elixir of the Mongoose, -7, 37
 Elixir of the Mongoose, -7, 68
 Elixir of the Mongoose, -7, 8
 Elixir of the Mongoose, -7, 8
+Elixir of the Mongoose, 4, -1
 Elixir of the Mongoose, 4, 0
 Elixir of the Mongoose, 4, 0
 Elixir of the Mongoose, 4, 1
@@ -1421,6 +1623,7 @@ Elixir of the Mongoose, 4, 14
 Elixir of the Mongoose, 4, 14
 Elixir of the Mongoose, 4, 43
 Elixir of the Mongoose, 4, 74
+Elixir of the Mongoose, 9, -1
 Elixir of the Mongoose, 9, 0
 Elixir of the Mongoose, 9, 0
 Elixir of the Mongoose, 9, 1
@@ -1428,6 +1631,7 @@ Elixir of the Mongoose, 9, 14
 Elixir of the Mongoose, 9, 14
 Elixir of the Mongoose, 9, 43
 Elixir of the Mongoose, 9, 74
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -1435,6 +1639,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -1442,6 +1647,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -1449,6 +1655,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -1456,6 +1663,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -1463,6 +1671,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -1470,6 +1679,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -1478,6 +1688,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 7
++5 Dexterity Vest, -2, -1
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 0
@@ -1485,6 +1696,7 @@ Items after day 7
 +5 Dexterity Vest, -2, 11
 +5 Dexterity Vest, -2, 40
 +5 Dexterity Vest, -2, 71
++5 Dexterity Vest, -4, -1
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
@@ -1492,6 +1704,7 @@ Items after day 7
 +5 Dexterity Vest, -4, 69
 +5 Dexterity Vest, -4, 9
 +5 Dexterity Vest, -4, 9
++5 Dexterity Vest, -5, -1
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
@@ -1499,6 +1712,7 @@ Items after day 7
 +5 Dexterity Vest, -5, 68
 +5 Dexterity Vest, -5, 8
 +5 Dexterity Vest, -5, 8
++5 Dexterity Vest, -7, -1
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
@@ -1506,6 +1720,7 @@ Items after day 7
 +5 Dexterity Vest, -7, 6
 +5 Dexterity Vest, -7, 6
 +5 Dexterity Vest, -7, 66
++5 Dexterity Vest, -8, -1
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
@@ -1513,6 +1728,7 @@ Items after day 7
 +5 Dexterity Vest, -8, 6
 +5 Dexterity Vest, -8, 6
 +5 Dexterity Vest, -8, 66
++5 Dexterity Vest, 3, -1
 +5 Dexterity Vest, 3, 0
 +5 Dexterity Vest, 3, 0
 +5 Dexterity Vest, 3, 0
@@ -1520,6 +1736,7 @@ Items after day 7
 +5 Dexterity Vest, 3, 13
 +5 Dexterity Vest, 3, 42
 +5 Dexterity Vest, 3, 73
++5 Dexterity Vest, 8, -1
 +5 Dexterity Vest, 8, 0
 +5 Dexterity Vest, 8, 0
 +5 Dexterity Vest, 8, 0
@@ -1532,8 +1749,10 @@ Aged Brie, -2, 16
 Aged Brie, -2, 29
 Aged Brie, -2, 29
 Aged Brie, -2, 50
+Aged Brie, -2, 8
 Aged Brie, -2, 80
 Aged Brie, -2, 9
+Aged Brie, -4, 10
 Aged Brie, -4, 11
 Aged Brie, -4, 17
 Aged Brie, -4, 18
@@ -1541,6 +1760,7 @@ Aged Brie, -4, 31
 Aged Brie, -4, 31
 Aged Brie, -4, 50
 Aged Brie, -4, 80
+Aged Brie, -5, 11
 Aged Brie, -5, 12
 Aged Brie, -5, 18
 Aged Brie, -5, 19
@@ -1548,6 +1768,7 @@ Aged Brie, -5, 32
 Aged Brie, -5, 32
 Aged Brie, -5, 50
 Aged Brie, -5, 80
+Aged Brie, -7, 13
 Aged Brie, -7, 14
 Aged Brie, -7, 20
 Aged Brie, -7, 21
@@ -1555,6 +1776,7 @@ Aged Brie, -7, 34
 Aged Brie, -7, 34
 Aged Brie, -7, 50
 Aged Brie, -7, 80
+Aged Brie, -8, 13
 Aged Brie, -8, 14
 Aged Brie, -8, 20
 Aged Brie, -8, 21
@@ -1567,6 +1789,7 @@ Aged Brie, 3, 14
 Aged Brie, 3, 27
 Aged Brie, 3, 27
 Aged Brie, 3, 50
+Aged Brie, 3, 6
 Aged Brie, 3, 7
 Aged Brie, 3, 80
 Aged Brie, 8, 13
@@ -1574,6 +1797,7 @@ Aged Brie, 8, 14
 Aged Brie, 8, 27
 Aged Brie, 8, 27
 Aged Brie, 8, 50
+Aged Brie, 8, 6
 Aged Brie, 8, 7
 Aged Brie, 8, 80
 Backstage passes to a TAFKAL80ETC concert, -2, 0
@@ -1583,6 +1807,8 @@ Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
@@ -1597,6 +1823,8 @@ Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
@@ -1611,6 +1839,8 @@ Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, 3, 15
 Backstage passes to a TAFKAL80ETC concert, 3, 16
 Backstage passes to a TAFKAL80ETC concert, 3, 22
 Backstage passes to a TAFKAL80ETC concert, 3, 23
@@ -1623,8 +1853,10 @@ Backstage passes to a TAFKAL80ETC concert, 8, 16
 Backstage passes to a TAFKAL80ETC concert, 8, 29
 Backstage passes to a TAFKAL80ETC concert, 8, 29
 Backstage passes to a TAFKAL80ETC concert, 8, 50
+Backstage passes to a TAFKAL80ETC concert, 8, 8
 Backstage passes to a TAFKAL80ETC concert, 8, 80
 Backstage passes to a TAFKAL80ETC concert, 8, 9
+Elixir of the Mongoose, -2, -1
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 0
@@ -1632,6 +1864,7 @@ Elixir of the Mongoose, -2, 11
 Elixir of the Mongoose, -2, 11
 Elixir of the Mongoose, -2, 40
 Elixir of the Mongoose, -2, 71
+Elixir of the Mongoose, -4, -1
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
@@ -1639,6 +1872,7 @@ Elixir of the Mongoose, -4, 38
 Elixir of the Mongoose, -4, 69
 Elixir of the Mongoose, -4, 9
 Elixir of the Mongoose, -4, 9
+Elixir of the Mongoose, -5, -1
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
@@ -1646,6 +1880,7 @@ Elixir of the Mongoose, -5, 37
 Elixir of the Mongoose, -5, 68
 Elixir of the Mongoose, -5, 8
 Elixir of the Mongoose, -5, 8
+Elixir of the Mongoose, -7, -1
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
@@ -1653,6 +1888,7 @@ Elixir of the Mongoose, -7, 35
 Elixir of the Mongoose, -7, 6
 Elixir of the Mongoose, -7, 6
 Elixir of the Mongoose, -7, 66
+Elixir of the Mongoose, -8, -1
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
@@ -1660,6 +1896,7 @@ Elixir of the Mongoose, -8, 35
 Elixir of the Mongoose, -8, 6
 Elixir of the Mongoose, -8, 6
 Elixir of the Mongoose, -8, 66
+Elixir of the Mongoose, 3, -1
 Elixir of the Mongoose, 3, 0
 Elixir of the Mongoose, 3, 0
 Elixir of the Mongoose, 3, 0
@@ -1667,6 +1904,7 @@ Elixir of the Mongoose, 3, 13
 Elixir of the Mongoose, 3, 13
 Elixir of the Mongoose, 3, 42
 Elixir of the Mongoose, 3, 73
+Elixir of the Mongoose, 8, -1
 Elixir of the Mongoose, 8, 0
 Elixir of the Mongoose, 8, 0
 Elixir of the Mongoose, 8, 0
@@ -1674,6 +1912,7 @@ Elixir of the Mongoose, 8, 13
 Elixir of the Mongoose, 8, 13
 Elixir of the Mongoose, 8, 42
 Elixir of the Mongoose, 8, 73
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -1681,6 +1920,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -1688,6 +1928,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -1695,6 +1936,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -1702,6 +1944,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -1709,6 +1952,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -1716,6 +1960,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -1724,6 +1969,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 8
++5 Dexterity Vest, -3, -1
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
@@ -1731,6 +1977,7 @@ Items after day 8
 +5 Dexterity Vest, -3, 69
 +5 Dexterity Vest, -3, 9
 +5 Dexterity Vest, -3, 9
++5 Dexterity Vest, -5, -1
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
@@ -1738,6 +1985,7 @@ Items after day 8
 +5 Dexterity Vest, -5, 67
 +5 Dexterity Vest, -5, 7
 +5 Dexterity Vest, -5, 7
++5 Dexterity Vest, -6, -1
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
@@ -1745,6 +1993,7 @@ Items after day 8
 +5 Dexterity Vest, -6, 6
 +5 Dexterity Vest, -6, 6
 +5 Dexterity Vest, -6, 66
++5 Dexterity Vest, -8, -1
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
@@ -1752,6 +2001,7 @@ Items after day 8
 +5 Dexterity Vest, -8, 4
 +5 Dexterity Vest, -8, 4
 +5 Dexterity Vest, -8, 64
++5 Dexterity Vest, -9, -1
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
@@ -1759,6 +2009,7 @@ Items after day 8
 +5 Dexterity Vest, -9, 4
 +5 Dexterity Vest, -9, 4
 +5 Dexterity Vest, -9, 64
++5 Dexterity Vest, 2, -1
 +5 Dexterity Vest, 2, 0
 +5 Dexterity Vest, 2, 0
 +5 Dexterity Vest, 2, 0
@@ -1766,6 +2017,7 @@ Items after day 8
 +5 Dexterity Vest, 2, 12
 +5 Dexterity Vest, 2, 41
 +5 Dexterity Vest, 2, 72
++5 Dexterity Vest, 7, -1
 +5 Dexterity Vest, 7, 0
 +5 Dexterity Vest, 7, 0
 +5 Dexterity Vest, 7, 0
@@ -1773,6 +2025,7 @@ Items after day 8
 +5 Dexterity Vest, 7, 12
 +5 Dexterity Vest, 7, 41
 +5 Dexterity Vest, 7, 72
+Aged Brie, -3, 10
 Aged Brie, -3, 11
 Aged Brie, -3, 17
 Aged Brie, -3, 18
@@ -1780,6 +2033,7 @@ Aged Brie, -3, 31
 Aged Brie, -3, 31
 Aged Brie, -3, 50
 Aged Brie, -3, 80
+Aged Brie, -5, 12
 Aged Brie, -5, 13
 Aged Brie, -5, 19
 Aged Brie, -5, 20
@@ -1787,6 +2041,7 @@ Aged Brie, -5, 33
 Aged Brie, -5, 33
 Aged Brie, -5, 50
 Aged Brie, -5, 80
+Aged Brie, -6, 13
 Aged Brie, -6, 14
 Aged Brie, -6, 20
 Aged Brie, -6, 21
@@ -1794,6 +2049,7 @@ Aged Brie, -6, 34
 Aged Brie, -6, 34
 Aged Brie, -6, 50
 Aged Brie, -6, 80
+Aged Brie, -8, 15
 Aged Brie, -8, 16
 Aged Brie, -8, 22
 Aged Brie, -8, 23
@@ -1801,6 +2057,7 @@ Aged Brie, -8, 36
 Aged Brie, -8, 36
 Aged Brie, -8, 50
 Aged Brie, -8, 80
+Aged Brie, -9, 15
 Aged Brie, -9, 16
 Aged Brie, -9, 22
 Aged Brie, -9, 23
@@ -1813,6 +2070,7 @@ Aged Brie, 2, 15
 Aged Brie, 2, 28
 Aged Brie, 2, 28
 Aged Brie, 2, 50
+Aged Brie, 2, 7
 Aged Brie, 2, 8
 Aged Brie, 2, 80
 Aged Brie, 7, 14
@@ -1820,6 +2078,7 @@ Aged Brie, 7, 15
 Aged Brie, 7, 28
 Aged Brie, 7, 28
 Aged Brie, 7, 50
+Aged Brie, 7, 7
 Aged Brie, 7, 8
 Aged Brie, 7, 80
 Backstage passes to a TAFKAL80ETC concert, -3, 0
@@ -1829,6 +2088,8 @@ Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
@@ -1843,6 +2104,8 @@ Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
@@ -1857,6 +2120,8 @@ Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, 2, 18
 Backstage passes to a TAFKAL80ETC concert, 2, 19
 Backstage passes to a TAFKAL80ETC concert, 2, 25
 Backstage passes to a TAFKAL80ETC concert, 2, 26
@@ -1864,6 +2129,7 @@ Backstage passes to a TAFKAL80ETC concert, 2, 39
 Backstage passes to a TAFKAL80ETC concert, 2, 39
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 80
+Backstage passes to a TAFKAL80ETC concert, 7, 10
 Backstage passes to a TAFKAL80ETC concert, 7, 11
 Backstage passes to a TAFKAL80ETC concert, 7, 17
 Backstage passes to a TAFKAL80ETC concert, 7, 18
@@ -1871,6 +2137,7 @@ Backstage passes to a TAFKAL80ETC concert, 7, 31
 Backstage passes to a TAFKAL80ETC concert, 7, 31
 Backstage passes to a TAFKAL80ETC concert, 7, 50
 Backstage passes to a TAFKAL80ETC concert, 7, 80
+Elixir of the Mongoose, -3, -1
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
@@ -1878,6 +2145,7 @@ Elixir of the Mongoose, -3, 38
 Elixir of the Mongoose, -3, 69
 Elixir of the Mongoose, -3, 9
 Elixir of the Mongoose, -3, 9
+Elixir of the Mongoose, -5, -1
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
@@ -1885,6 +2153,7 @@ Elixir of the Mongoose, -5, 36
 Elixir of the Mongoose, -5, 67
 Elixir of the Mongoose, -5, 7
 Elixir of the Mongoose, -5, 7
+Elixir of the Mongoose, -6, -1
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
@@ -1892,6 +2161,7 @@ Elixir of the Mongoose, -6, 35
 Elixir of the Mongoose, -6, 6
 Elixir of the Mongoose, -6, 6
 Elixir of the Mongoose, -6, 66
+Elixir of the Mongoose, -8, -1
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
@@ -1899,6 +2169,7 @@ Elixir of the Mongoose, -8, 33
 Elixir of the Mongoose, -8, 4
 Elixir of the Mongoose, -8, 4
 Elixir of the Mongoose, -8, 64
+Elixir of the Mongoose, -9, -1
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
@@ -1906,6 +2177,7 @@ Elixir of the Mongoose, -9, 33
 Elixir of the Mongoose, -9, 4
 Elixir of the Mongoose, -9, 4
 Elixir of the Mongoose, -9, 64
+Elixir of the Mongoose, 2, -1
 Elixir of the Mongoose, 2, 0
 Elixir of the Mongoose, 2, 0
 Elixir of the Mongoose, 2, 0
@@ -1913,6 +2185,7 @@ Elixir of the Mongoose, 2, 12
 Elixir of the Mongoose, 2, 12
 Elixir of the Mongoose, 2, 41
 Elixir of the Mongoose, 2, 72
+Elixir of the Mongoose, 7, -1
 Elixir of the Mongoose, 7, 0
 Elixir of the Mongoose, 7, 0
 Elixir of the Mongoose, 7, 0
@@ -1920,6 +2193,7 @@ Elixir of the Mongoose, 7, 12
 Elixir of the Mongoose, 7, 12
 Elixir of the Mongoose, 7, 41
 Elixir of the Mongoose, 7, 72
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -1927,6 +2201,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -1934,6 +2209,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -1941,6 +2217,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -1948,6 +2225,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -1955,6 +2233,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -1962,6 +2241,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -1970,6 +2250,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 9
++5 Dexterity Vest, -10, -1
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 0
@@ -1977,6 +2258,7 @@ Items after day 9
 +5 Dexterity Vest, -10, 2
 +5 Dexterity Vest, -10, 31
 +5 Dexterity Vest, -10, 62
++5 Dexterity Vest, -4, -1
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
@@ -1984,6 +2266,7 @@ Items after day 9
 +5 Dexterity Vest, -4, 67
 +5 Dexterity Vest, -4, 7
 +5 Dexterity Vest, -4, 7
++5 Dexterity Vest, -6, -1
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
@@ -1991,6 +2274,7 @@ Items after day 9
 +5 Dexterity Vest, -6, 5
 +5 Dexterity Vest, -6, 5
 +5 Dexterity Vest, -6, 65
++5 Dexterity Vest, -7, -1
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
@@ -1998,6 +2282,7 @@ Items after day 9
 +5 Dexterity Vest, -7, 4
 +5 Dexterity Vest, -7, 4
 +5 Dexterity Vest, -7, 64
++5 Dexterity Vest, -9, -1
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
@@ -2005,6 +2290,7 @@ Items after day 9
 +5 Dexterity Vest, -9, 2
 +5 Dexterity Vest, -9, 31
 +5 Dexterity Vest, -9, 62
++5 Dexterity Vest, 1, -1
 +5 Dexterity Vest, 1, 0
 +5 Dexterity Vest, 1, 0
 +5 Dexterity Vest, 1, 0
@@ -2012,6 +2298,7 @@ Items after day 9
 +5 Dexterity Vest, 1, 11
 +5 Dexterity Vest, 1, 40
 +5 Dexterity Vest, 1, 71
++5 Dexterity Vest, 6, -1
 +5 Dexterity Vest, 6, 0
 +5 Dexterity Vest, 6, 0
 +5 Dexterity Vest, 6, 0
@@ -2019,6 +2306,7 @@ Items after day 9
 +5 Dexterity Vest, 6, 11
 +5 Dexterity Vest, 6, 40
 +5 Dexterity Vest, 6, 71
+Aged Brie, -10, 17
 Aged Brie, -10, 18
 Aged Brie, -10, 24
 Aged Brie, -10, 25
@@ -2026,6 +2314,7 @@ Aged Brie, -10, 38
 Aged Brie, -10, 38
 Aged Brie, -10, 50
 Aged Brie, -10, 80
+Aged Brie, -4, 12
 Aged Brie, -4, 13
 Aged Brie, -4, 19
 Aged Brie, -4, 20
@@ -2033,6 +2322,7 @@ Aged Brie, -4, 33
 Aged Brie, -4, 33
 Aged Brie, -4, 50
 Aged Brie, -4, 80
+Aged Brie, -6, 14
 Aged Brie, -6, 15
 Aged Brie, -6, 21
 Aged Brie, -6, 22
@@ -2040,6 +2330,7 @@ Aged Brie, -6, 35
 Aged Brie, -6, 35
 Aged Brie, -6, 50
 Aged Brie, -6, 80
+Aged Brie, -7, 15
 Aged Brie, -7, 16
 Aged Brie, -7, 22
 Aged Brie, -7, 23
@@ -2047,6 +2338,7 @@ Aged Brie, -7, 36
 Aged Brie, -7, 36
 Aged Brie, -7, 50
 Aged Brie, -7, 80
+Aged Brie, -9, 17
 Aged Brie, -9, 18
 Aged Brie, -9, 24
 Aged Brie, -9, 25
@@ -2059,6 +2351,7 @@ Aged Brie, 1, 16
 Aged Brie, 1, 29
 Aged Brie, 1, 29
 Aged Brie, 1, 50
+Aged Brie, 1, 8
 Aged Brie, 1, 80
 Aged Brie, 1, 9
 Aged Brie, 6, 15
@@ -2066,6 +2359,7 @@ Aged Brie, 6, 16
 Aged Brie, 6, 29
 Aged Brie, 6, 29
 Aged Brie, 6, 50
+Aged Brie, 6, 8
 Aged Brie, 6, 80
 Aged Brie, 6, 9
 Backstage passes to a TAFKAL80ETC concert, -10, 0
@@ -2075,6 +2369,8 @@ Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
@@ -2089,6 +2385,8 @@ Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
@@ -2103,6 +2401,8 @@ Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, 1, 21
 Backstage passes to a TAFKAL80ETC concert, 1, 22
 Backstage passes to a TAFKAL80ETC concert, 1, 28
 Backstage passes to a TAFKAL80ETC concert, 1, 29
@@ -2110,6 +2410,7 @@ Backstage passes to a TAFKAL80ETC concert, 1, 42
 Backstage passes to a TAFKAL80ETC concert, 1, 42
 Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 80
+Backstage passes to a TAFKAL80ETC concert, 6, 12
 Backstage passes to a TAFKAL80ETC concert, 6, 13
 Backstage passes to a TAFKAL80ETC concert, 6, 19
 Backstage passes to a TAFKAL80ETC concert, 6, 20
@@ -2117,6 +2418,7 @@ Backstage passes to a TAFKAL80ETC concert, 6, 33
 Backstage passes to a TAFKAL80ETC concert, 6, 33
 Backstage passes to a TAFKAL80ETC concert, 6, 50
 Backstage passes to a TAFKAL80ETC concert, 6, 80
+Elixir of the Mongoose, -10, -1
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
@@ -2124,6 +2426,7 @@ Elixir of the Mongoose, -10, 2
 Elixir of the Mongoose, -10, 2
 Elixir of the Mongoose, -10, 31
 Elixir of the Mongoose, -10, 62
+Elixir of the Mongoose, -4, -1
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
@@ -2131,6 +2434,7 @@ Elixir of the Mongoose, -4, 36
 Elixir of the Mongoose, -4, 67
 Elixir of the Mongoose, -4, 7
 Elixir of the Mongoose, -4, 7
+Elixir of the Mongoose, -6, -1
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
@@ -2138,6 +2442,7 @@ Elixir of the Mongoose, -6, 34
 Elixir of the Mongoose, -6, 5
 Elixir of the Mongoose, -6, 5
 Elixir of the Mongoose, -6, 65
+Elixir of the Mongoose, -7, -1
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
@@ -2145,6 +2450,7 @@ Elixir of the Mongoose, -7, 33
 Elixir of the Mongoose, -7, 4
 Elixir of the Mongoose, -7, 4
 Elixir of the Mongoose, -7, 64
+Elixir of the Mongoose, -9, -1
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
@@ -2152,6 +2458,7 @@ Elixir of the Mongoose, -9, 2
 Elixir of the Mongoose, -9, 2
 Elixir of the Mongoose, -9, 31
 Elixir of the Mongoose, -9, 62
+Elixir of the Mongoose, 1, -1
 Elixir of the Mongoose, 1, 0
 Elixir of the Mongoose, 1, 0
 Elixir of the Mongoose, 1, 0
@@ -2159,6 +2466,7 @@ Elixir of the Mongoose, 1, 11
 Elixir of the Mongoose, 1, 11
 Elixir of the Mongoose, 1, 40
 Elixir of the Mongoose, 1, 71
+Elixir of the Mongoose, 6, -1
 Elixir of the Mongoose, 6, 0
 Elixir of the Mongoose, 6, 0
 Elixir of the Mongoose, 6, 0
@@ -2166,6 +2474,7 @@ Elixir of the Mongoose, 6, 11
 Elixir of the Mongoose, 6, 11
 Elixir of the Mongoose, 6, 40
 Elixir of the Mongoose, 6, 71
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -2173,6 +2482,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -2180,6 +2490,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -2187,6 +2498,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -2194,6 +2506,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -2201,6 +2514,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -2208,6 +2522,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -2216,6 +2531,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 10
++5 Dexterity Vest, -10, -1
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 0
@@ -2223,6 +2539,7 @@ Items after day 10
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 29
 +5 Dexterity Vest, -10, 60
++5 Dexterity Vest, -11, -1
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 0
@@ -2230,6 +2547,7 @@ Items after day 10
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 29
 +5 Dexterity Vest, -11, 60
++5 Dexterity Vest, -5, -1
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
 +5 Dexterity Vest, -5, 0
@@ -2237,6 +2555,7 @@ Items after day 10
 +5 Dexterity Vest, -5, 5
 +5 Dexterity Vest, -5, 5
 +5 Dexterity Vest, -5, 65
++5 Dexterity Vest, -7, -1
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
@@ -2244,6 +2563,7 @@ Items after day 10
 +5 Dexterity Vest, -7, 3
 +5 Dexterity Vest, -7, 32
 +5 Dexterity Vest, -7, 63
++5 Dexterity Vest, -8, -1
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
@@ -2251,6 +2571,7 @@ Items after day 10
 +5 Dexterity Vest, -8, 2
 +5 Dexterity Vest, -8, 31
 +5 Dexterity Vest, -8, 62
++5 Dexterity Vest, 0, -1
 +5 Dexterity Vest, 0, 0
 +5 Dexterity Vest, 0, 0
 +5 Dexterity Vest, 0, 0
@@ -2258,6 +2579,7 @@ Items after day 10
 +5 Dexterity Vest, 0, 10
 +5 Dexterity Vest, 0, 39
 +5 Dexterity Vest, 0, 70
++5 Dexterity Vest, 5, -1
 +5 Dexterity Vest, 5, 0
 +5 Dexterity Vest, 5, 0
 +5 Dexterity Vest, 5, 0
@@ -2265,6 +2587,7 @@ Items after day 10
 +5 Dexterity Vest, 5, 10
 +5 Dexterity Vest, 5, 39
 +5 Dexterity Vest, 5, 70
+Aged Brie, -10, 19
 Aged Brie, -10, 20
 Aged Brie, -10, 26
 Aged Brie, -10, 27
@@ -2272,6 +2595,7 @@ Aged Brie, -10, 40
 Aged Brie, -10, 40
 Aged Brie, -10, 50
 Aged Brie, -10, 80
+Aged Brie, -11, 19
 Aged Brie, -11, 20
 Aged Brie, -11, 26
 Aged Brie, -11, 27
@@ -2279,6 +2603,7 @@ Aged Brie, -11, 40
 Aged Brie, -11, 40
 Aged Brie, -11, 50
 Aged Brie, -11, 80
+Aged Brie, -5, 14
 Aged Brie, -5, 15
 Aged Brie, -5, 21
 Aged Brie, -5, 22
@@ -2286,6 +2611,7 @@ Aged Brie, -5, 35
 Aged Brie, -5, 35
 Aged Brie, -5, 50
 Aged Brie, -5, 80
+Aged Brie, -7, 16
 Aged Brie, -7, 17
 Aged Brie, -7, 23
 Aged Brie, -7, 24
@@ -2293,6 +2619,7 @@ Aged Brie, -7, 37
 Aged Brie, -7, 37
 Aged Brie, -7, 50
 Aged Brie, -7, 80
+Aged Brie, -8, 17
 Aged Brie, -8, 18
 Aged Brie, -8, 24
 Aged Brie, -8, 25
@@ -2307,6 +2634,7 @@ Aged Brie, 0, 30
 Aged Brie, 0, 30
 Aged Brie, 0, 50
 Aged Brie, 0, 80
+Aged Brie, 0, 9
 Aged Brie, 5, 10
 Aged Brie, 5, 16
 Aged Brie, 5, 17
@@ -2314,6 +2642,8 @@ Aged Brie, 5, 30
 Aged Brie, 5, 30
 Aged Brie, 5, 50
 Aged Brie, 5, 80
+Aged Brie, 5, 9
+Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
@@ -2328,6 +2658,8 @@ Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
@@ -2342,6 +2674,7 @@ Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
@@ -2349,6 +2682,8 @@ Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 24
 Backstage passes to a TAFKAL80ETC concert, 0, 25
 Backstage passes to a TAFKAL80ETC concert, 0, 31
 Backstage passes to a TAFKAL80ETC concert, 0, 32
@@ -2356,6 +2691,7 @@ Backstage passes to a TAFKAL80ETC concert, 0, 45
 Backstage passes to a TAFKAL80ETC concert, 0, 45
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 80
+Backstage passes to a TAFKAL80ETC concert, 5, 14
 Backstage passes to a TAFKAL80ETC concert, 5, 15
 Backstage passes to a TAFKAL80ETC concert, 5, 21
 Backstage passes to a TAFKAL80ETC concert, 5, 22
@@ -2363,6 +2699,7 @@ Backstage passes to a TAFKAL80ETC concert, 5, 35
 Backstage passes to a TAFKAL80ETC concert, 5, 35
 Backstage passes to a TAFKAL80ETC concert, 5, 50
 Backstage passes to a TAFKAL80ETC concert, 5, 80
+Elixir of the Mongoose, -10, -1
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
@@ -2370,6 +2707,7 @@ Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 29
 Elixir of the Mongoose, -10, 60
+Elixir of the Mongoose, -11, -1
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
@@ -2377,6 +2715,7 @@ Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 29
 Elixir of the Mongoose, -11, 60
+Elixir of the Mongoose, -5, -1
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
 Elixir of the Mongoose, -5, 0
@@ -2384,6 +2723,7 @@ Elixir of the Mongoose, -5, 34
 Elixir of the Mongoose, -5, 5
 Elixir of the Mongoose, -5, 5
 Elixir of the Mongoose, -5, 65
+Elixir of the Mongoose, -7, -1
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
@@ -2391,6 +2731,7 @@ Elixir of the Mongoose, -7, 3
 Elixir of the Mongoose, -7, 3
 Elixir of the Mongoose, -7, 32
 Elixir of the Mongoose, -7, 63
+Elixir of the Mongoose, -8, -1
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
@@ -2398,6 +2739,7 @@ Elixir of the Mongoose, -8, 2
 Elixir of the Mongoose, -8, 2
 Elixir of the Mongoose, -8, 31
 Elixir of the Mongoose, -8, 62
+Elixir of the Mongoose, 0, -1
 Elixir of the Mongoose, 0, 0
 Elixir of the Mongoose, 0, 0
 Elixir of the Mongoose, 0, 0
@@ -2405,6 +2747,7 @@ Elixir of the Mongoose, 0, 10
 Elixir of the Mongoose, 0, 10
 Elixir of the Mongoose, 0, 39
 Elixir of the Mongoose, 0, 70
+Elixir of the Mongoose, 5, -1
 Elixir of the Mongoose, 5, 0
 Elixir of the Mongoose, 5, 0
 Elixir of the Mongoose, 5, 0
@@ -2412,6 +2755,7 @@ Elixir of the Mongoose, 5, 10
 Elixir of the Mongoose, 5, 10
 Elixir of the Mongoose, 5, 39
 Elixir of the Mongoose, 5, 70
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -2419,6 +2763,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -2426,6 +2771,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -2433,6 +2779,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -2440,6 +2787,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -2447,6 +2795,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -2454,6 +2803,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -2462,6 +2812,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 11
++5 Dexterity Vest, -1, -1
 +5 Dexterity Vest, -1, 0
 +5 Dexterity Vest, -1, 0
 +5 Dexterity Vest, -1, 0
@@ -2469,6 +2820,7 @@ Items after day 11
 +5 Dexterity Vest, -1, 68
 +5 Dexterity Vest, -1, 8
 +5 Dexterity Vest, -1, 8
++5 Dexterity Vest, -11, -1
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 0
@@ -2476,6 +2828,7 @@ Items after day 11
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 27
 +5 Dexterity Vest, -11, 58
++5 Dexterity Vest, -12, -1
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 0
@@ -2483,6 +2836,7 @@ Items after day 11
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 27
 +5 Dexterity Vest, -12, 58
++5 Dexterity Vest, -6, -1
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
 +5 Dexterity Vest, -6, 0
@@ -2490,6 +2844,7 @@ Items after day 11
 +5 Dexterity Vest, -6, 3
 +5 Dexterity Vest, -6, 32
 +5 Dexterity Vest, -6, 63
++5 Dexterity Vest, -8, -1
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
@@ -2497,6 +2852,7 @@ Items after day 11
 +5 Dexterity Vest, -8, 1
 +5 Dexterity Vest, -8, 30
 +5 Dexterity Vest, -8, 61
++5 Dexterity Vest, -9, -1
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
@@ -2504,6 +2860,7 @@ Items after day 11
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 29
 +5 Dexterity Vest, -9, 60
++5 Dexterity Vest, 4, -1
 +5 Dexterity Vest, 4, 0
 +5 Dexterity Vest, 4, 0
 +5 Dexterity Vest, 4, 0
@@ -2511,6 +2868,7 @@ Items after day 11
 +5 Dexterity Vest, 4, 69
 +5 Dexterity Vest, 4, 9
 +5 Dexterity Vest, 4, 9
+Aged Brie, -1, 11
 Aged Brie, -1, 12
 Aged Brie, -1, 18
 Aged Brie, -1, 19
@@ -2518,6 +2876,7 @@ Aged Brie, -1, 32
 Aged Brie, -1, 32
 Aged Brie, -1, 50
 Aged Brie, -1, 80
+Aged Brie, -11, 21
 Aged Brie, -11, 22
 Aged Brie, -11, 28
 Aged Brie, -11, 29
@@ -2525,6 +2884,7 @@ Aged Brie, -11, 42
 Aged Brie, -11, 42
 Aged Brie, -11, 50
 Aged Brie, -11, 80
+Aged Brie, -12, 21
 Aged Brie, -12, 22
 Aged Brie, -12, 28
 Aged Brie, -12, 29
@@ -2532,6 +2892,7 @@ Aged Brie, -12, 42
 Aged Brie, -12, 42
 Aged Brie, -12, 50
 Aged Brie, -12, 80
+Aged Brie, -6, 16
 Aged Brie, -6, 17
 Aged Brie, -6, 23
 Aged Brie, -6, 24
@@ -2539,6 +2900,7 @@ Aged Brie, -6, 37
 Aged Brie, -6, 37
 Aged Brie, -6, 50
 Aged Brie, -6, 80
+Aged Brie, -8, 18
 Aged Brie, -8, 19
 Aged Brie, -8, 25
 Aged Brie, -8, 26
@@ -2546,6 +2908,7 @@ Aged Brie, -8, 39
 Aged Brie, -8, 39
 Aged Brie, -8, 50
 Aged Brie, -8, 80
+Aged Brie, -9, 19
 Aged Brie, -9, 20
 Aged Brie, -9, 26
 Aged Brie, -9, 27
@@ -2553,6 +2916,7 @@ Aged Brie, -9, 40
 Aged Brie, -9, 40
 Aged Brie, -9, 50
 Aged Brie, -9, 80
+Aged Brie, 4, 10
 Aged Brie, 4, 11
 Aged Brie, 4, 17
 Aged Brie, 4, 18
@@ -2567,6 +2931,8 @@ Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
@@ -2581,6 +2947,8 @@ Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
+Backstage passes to a TAFKAL80ETC concert, -12, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
@@ -2595,6 +2963,7 @@ Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
@@ -2602,6 +2971,8 @@ Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, 4, 17
 Backstage passes to a TAFKAL80ETC concert, 4, 18
 Backstage passes to a TAFKAL80ETC concert, 4, 24
 Backstage passes to a TAFKAL80ETC concert, 4, 25
@@ -2609,6 +2980,7 @@ Backstage passes to a TAFKAL80ETC concert, 4, 38
 Backstage passes to a TAFKAL80ETC concert, 4, 38
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 80
+Elixir of the Mongoose, -1, -1
 Elixir of the Mongoose, -1, 0
 Elixir of the Mongoose, -1, 0
 Elixir of the Mongoose, -1, 0
@@ -2616,6 +2988,7 @@ Elixir of the Mongoose, -1, 37
 Elixir of the Mongoose, -1, 68
 Elixir of the Mongoose, -1, 8
 Elixir of the Mongoose, -1, 8
+Elixir of the Mongoose, -11, -1
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
@@ -2623,6 +2996,7 @@ Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 27
 Elixir of the Mongoose, -11, 58
+Elixir of the Mongoose, -12, -1
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
@@ -2630,6 +3004,7 @@ Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 27
 Elixir of the Mongoose, -12, 58
+Elixir of the Mongoose, -6, -1
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
 Elixir of the Mongoose, -6, 0
@@ -2637,6 +3012,7 @@ Elixir of the Mongoose, -6, 3
 Elixir of the Mongoose, -6, 3
 Elixir of the Mongoose, -6, 32
 Elixir of the Mongoose, -6, 63
+Elixir of the Mongoose, -8, -1
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
@@ -2644,6 +3020,7 @@ Elixir of the Mongoose, -8, 1
 Elixir of the Mongoose, -8, 1
 Elixir of the Mongoose, -8, 30
 Elixir of the Mongoose, -8, 61
+Elixir of the Mongoose, -9, -1
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
@@ -2651,6 +3028,7 @@ Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 29
 Elixir of the Mongoose, -9, 60
+Elixir of the Mongoose, 4, -1
 Elixir of the Mongoose, 4, 0
 Elixir of the Mongoose, 4, 0
 Elixir of the Mongoose, 4, 0
@@ -2658,6 +3036,7 @@ Elixir of the Mongoose, 4, 38
 Elixir of the Mongoose, 4, 69
 Elixir of the Mongoose, 4, 9
 Elixir of the Mongoose, 4, 9
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -2665,6 +3044,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -2672,6 +3052,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -2679,6 +3060,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -2686,6 +3068,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -2693,6 +3076,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -2700,6 +3084,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -2708,6 +3093,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 12
++5 Dexterity Vest, -10, -1
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 0
@@ -2715,6 +3101,7 @@ Items after day 12
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 27
 +5 Dexterity Vest, -10, 58
++5 Dexterity Vest, -12, -1
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 0
@@ -2722,6 +3109,7 @@ Items after day 12
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 25
 +5 Dexterity Vest, -12, 56
++5 Dexterity Vest, -13, -1
 +5 Dexterity Vest, -13, 0
 +5 Dexterity Vest, -13, 0
 +5 Dexterity Vest, -13, 0
@@ -2729,6 +3117,7 @@ Items after day 12
 +5 Dexterity Vest, -13, 0
 +5 Dexterity Vest, -13, 25
 +5 Dexterity Vest, -13, 56
++5 Dexterity Vest, -2, -1
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 0
 +5 Dexterity Vest, -2, 0
@@ -2736,6 +3125,7 @@ Items after day 12
 +5 Dexterity Vest, -2, 6
 +5 Dexterity Vest, -2, 6
 +5 Dexterity Vest, -2, 66
++5 Dexterity Vest, -7, -1
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
 +5 Dexterity Vest, -7, 0
@@ -2743,6 +3133,7 @@ Items after day 12
 +5 Dexterity Vest, -7, 1
 +5 Dexterity Vest, -7, 30
 +5 Dexterity Vest, -7, 61
++5 Dexterity Vest, -9, -1
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
@@ -2750,6 +3141,7 @@ Items after day 12
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 28
 +5 Dexterity Vest, -9, 59
++5 Dexterity Vest, 3, -1
 +5 Dexterity Vest, 3, 0
 +5 Dexterity Vest, 3, 0
 +5 Dexterity Vest, 3, 0
@@ -2757,6 +3149,7 @@ Items after day 12
 +5 Dexterity Vest, 3, 68
 +5 Dexterity Vest, 3, 8
 +5 Dexterity Vest, 3, 8
+Aged Brie, -10, 21
 Aged Brie, -10, 22
 Aged Brie, -10, 28
 Aged Brie, -10, 29
@@ -2764,6 +3157,7 @@ Aged Brie, -10, 42
 Aged Brie, -10, 42
 Aged Brie, -10, 50
 Aged Brie, -10, 80
+Aged Brie, -12, 23
 Aged Brie, -12, 24
 Aged Brie, -12, 30
 Aged Brie, -12, 31
@@ -2771,6 +3165,7 @@ Aged Brie, -12, 44
 Aged Brie, -12, 44
 Aged Brie, -12, 50
 Aged Brie, -12, 80
+Aged Brie, -13, 23
 Aged Brie, -13, 24
 Aged Brie, -13, 30
 Aged Brie, -13, 31
@@ -2778,6 +3173,7 @@ Aged Brie, -13, 44
 Aged Brie, -13, 44
 Aged Brie, -13, 50
 Aged Brie, -13, 80
+Aged Brie, -2, 13
 Aged Brie, -2, 14
 Aged Brie, -2, 20
 Aged Brie, -2, 21
@@ -2785,6 +3181,7 @@ Aged Brie, -2, 34
 Aged Brie, -2, 34
 Aged Brie, -2, 50
 Aged Brie, -2, 80
+Aged Brie, -7, 18
 Aged Brie, -7, 19
 Aged Brie, -7, 25
 Aged Brie, -7, 26
@@ -2792,6 +3189,7 @@ Aged Brie, -7, 39
 Aged Brie, -7, 39
 Aged Brie, -7, 50
 Aged Brie, -7, 80
+Aged Brie, -9, 20
 Aged Brie, -9, 21
 Aged Brie, -9, 27
 Aged Brie, -9, 28
@@ -2799,6 +3197,7 @@ Aged Brie, -9, 41
 Aged Brie, -9, 41
 Aged Brie, -9, 50
 Aged Brie, -9, 80
+Aged Brie, 3, 11
 Aged Brie, 3, 12
 Aged Brie, 3, 18
 Aged Brie, 3, 19
@@ -2813,6 +3212,8 @@ Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
@@ -2827,6 +3228,8 @@ Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
@@ -2841,6 +3244,7 @@ Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
@@ -2848,6 +3252,8 @@ Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, 3, 20
 Backstage passes to a TAFKAL80ETC concert, 3, 21
 Backstage passes to a TAFKAL80ETC concert, 3, 27
 Backstage passes to a TAFKAL80ETC concert, 3, 28
@@ -2855,6 +3261,7 @@ Backstage passes to a TAFKAL80ETC concert, 3, 41
 Backstage passes to a TAFKAL80ETC concert, 3, 41
 Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 80
+Elixir of the Mongoose, -10, -1
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
@@ -2862,6 +3269,7 @@ Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 27
 Elixir of the Mongoose, -10, 58
+Elixir of the Mongoose, -12, -1
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
@@ -2869,6 +3277,7 @@ Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 25
 Elixir of the Mongoose, -12, 56
+Elixir of the Mongoose, -13, -1
 Elixir of the Mongoose, -13, 0
 Elixir of the Mongoose, -13, 0
 Elixir of the Mongoose, -13, 0
@@ -2876,6 +3285,7 @@ Elixir of the Mongoose, -13, 0
 Elixir of the Mongoose, -13, 0
 Elixir of the Mongoose, -13, 25
 Elixir of the Mongoose, -13, 56
+Elixir of the Mongoose, -2, -1
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 0
 Elixir of the Mongoose, -2, 0
@@ -2883,6 +3293,7 @@ Elixir of the Mongoose, -2, 35
 Elixir of the Mongoose, -2, 6
 Elixir of the Mongoose, -2, 6
 Elixir of the Mongoose, -2, 66
+Elixir of the Mongoose, -7, -1
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
 Elixir of the Mongoose, -7, 0
@@ -2890,6 +3301,7 @@ Elixir of the Mongoose, -7, 1
 Elixir of the Mongoose, -7, 1
 Elixir of the Mongoose, -7, 30
 Elixir of the Mongoose, -7, 61
+Elixir of the Mongoose, -9, -1
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
@@ -2897,6 +3309,7 @@ Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 28
 Elixir of the Mongoose, -9, 59
+Elixir of the Mongoose, 3, -1
 Elixir of the Mongoose, 3, 0
 Elixir of the Mongoose, 3, 0
 Elixir of the Mongoose, 3, 0
@@ -2904,6 +3317,7 @@ Elixir of the Mongoose, 3, 37
 Elixir of the Mongoose, 3, 68
 Elixir of the Mongoose, 3, 8
 Elixir of the Mongoose, 3, 8
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -2911,6 +3325,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -2918,6 +3333,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -2925,6 +3341,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -2932,6 +3349,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -2939,6 +3357,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -2946,6 +3365,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -2954,6 +3374,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 13
++5 Dexterity Vest, -10, -1
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 0
@@ -2961,6 +3382,7 @@ Items after day 13
 +5 Dexterity Vest, -10, 0
 +5 Dexterity Vest, -10, 26
 +5 Dexterity Vest, -10, 57
++5 Dexterity Vest, -11, -1
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 0
@@ -2968,6 +3390,7 @@ Items after day 13
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 25
 +5 Dexterity Vest, -11, 56
++5 Dexterity Vest, -13, -1
 +5 Dexterity Vest, -13, 0
 +5 Dexterity Vest, -13, 0
 +5 Dexterity Vest, -13, 0
@@ -2975,6 +3398,7 @@ Items after day 13
 +5 Dexterity Vest, -13, 0
 +5 Dexterity Vest, -13, 23
 +5 Dexterity Vest, -13, 54
++5 Dexterity Vest, -14, -1
 +5 Dexterity Vest, -14, 0
 +5 Dexterity Vest, -14, 0
 +5 Dexterity Vest, -14, 0
@@ -2982,6 +3406,7 @@ Items after day 13
 +5 Dexterity Vest, -14, 0
 +5 Dexterity Vest, -14, 23
 +5 Dexterity Vest, -14, 54
++5 Dexterity Vest, -3, -1
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
 +5 Dexterity Vest, -3, 0
@@ -2989,6 +3414,7 @@ Items after day 13
 +5 Dexterity Vest, -3, 4
 +5 Dexterity Vest, -3, 4
 +5 Dexterity Vest, -3, 64
++5 Dexterity Vest, -8, -1
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 0
@@ -2996,6 +3422,7 @@ Items after day 13
 +5 Dexterity Vest, -8, 0
 +5 Dexterity Vest, -8, 28
 +5 Dexterity Vest, -8, 59
++5 Dexterity Vest, 2, -1
 +5 Dexterity Vest, 2, 0
 +5 Dexterity Vest, 2, 0
 +5 Dexterity Vest, 2, 0
@@ -3003,6 +3430,7 @@ Items after day 13
 +5 Dexterity Vest, 2, 67
 +5 Dexterity Vest, 2, 7
 +5 Dexterity Vest, 2, 7
+Aged Brie, -10, 22
 Aged Brie, -10, 23
 Aged Brie, -10, 29
 Aged Brie, -10, 30
@@ -3010,6 +3438,7 @@ Aged Brie, -10, 43
 Aged Brie, -10, 43
 Aged Brie, -10, 50
 Aged Brie, -10, 80
+Aged Brie, -11, 23
 Aged Brie, -11, 24
 Aged Brie, -11, 30
 Aged Brie, -11, 31
@@ -3017,6 +3446,7 @@ Aged Brie, -11, 44
 Aged Brie, -11, 44
 Aged Brie, -11, 50
 Aged Brie, -11, 80
+Aged Brie, -13, 25
 Aged Brie, -13, 26
 Aged Brie, -13, 32
 Aged Brie, -13, 33
@@ -3024,6 +3454,7 @@ Aged Brie, -13, 46
 Aged Brie, -13, 46
 Aged Brie, -13, 50
 Aged Brie, -13, 80
+Aged Brie, -14, 25
 Aged Brie, -14, 26
 Aged Brie, -14, 32
 Aged Brie, -14, 33
@@ -3031,6 +3462,7 @@ Aged Brie, -14, 46
 Aged Brie, -14, 46
 Aged Brie, -14, 50
 Aged Brie, -14, 80
+Aged Brie, -3, 15
 Aged Brie, -3, 16
 Aged Brie, -3, 22
 Aged Brie, -3, 23
@@ -3038,6 +3470,7 @@ Aged Brie, -3, 36
 Aged Brie, -3, 36
 Aged Brie, -3, 50
 Aged Brie, -3, 80
+Aged Brie, -8, 20
 Aged Brie, -8, 21
 Aged Brie, -8, 27
 Aged Brie, -8, 28
@@ -3045,6 +3478,7 @@ Aged Brie, -8, 41
 Aged Brie, -8, 41
 Aged Brie, -8, 50
 Aged Brie, -8, 80
+Aged Brie, 2, 12
 Aged Brie, 2, 13
 Aged Brie, 2, 19
 Aged Brie, 2, 20
@@ -3059,6 +3493,8 @@ Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
@@ -3073,6 +3509,8 @@ Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
@@ -3087,6 +3525,7 @@ Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
@@ -3094,6 +3533,8 @@ Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, 2, 23
 Backstage passes to a TAFKAL80ETC concert, 2, 24
 Backstage passes to a TAFKAL80ETC concert, 2, 30
 Backstage passes to a TAFKAL80ETC concert, 2, 31
@@ -3101,6 +3542,7 @@ Backstage passes to a TAFKAL80ETC concert, 2, 44
 Backstage passes to a TAFKAL80ETC concert, 2, 44
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 80
+Elixir of the Mongoose, -10, -1
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
@@ -3108,6 +3550,7 @@ Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 0
 Elixir of the Mongoose, -10, 26
 Elixir of the Mongoose, -10, 57
+Elixir of the Mongoose, -11, -1
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
@@ -3115,6 +3558,7 @@ Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 25
 Elixir of the Mongoose, -11, 56
+Elixir of the Mongoose, -13, -1
 Elixir of the Mongoose, -13, 0
 Elixir of the Mongoose, -13, 0
 Elixir of the Mongoose, -13, 0
@@ -3122,6 +3566,7 @@ Elixir of the Mongoose, -13, 0
 Elixir of the Mongoose, -13, 0
 Elixir of the Mongoose, -13, 23
 Elixir of the Mongoose, -13, 54
+Elixir of the Mongoose, -14, -1
 Elixir of the Mongoose, -14, 0
 Elixir of the Mongoose, -14, 0
 Elixir of the Mongoose, -14, 0
@@ -3129,6 +3574,7 @@ Elixir of the Mongoose, -14, 0
 Elixir of the Mongoose, -14, 0
 Elixir of the Mongoose, -14, 23
 Elixir of the Mongoose, -14, 54
+Elixir of the Mongoose, -3, -1
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
 Elixir of the Mongoose, -3, 0
@@ -3136,6 +3582,7 @@ Elixir of the Mongoose, -3, 33
 Elixir of the Mongoose, -3, 4
 Elixir of the Mongoose, -3, 4
 Elixir of the Mongoose, -3, 64
+Elixir of the Mongoose, -8, -1
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
@@ -3143,6 +3590,7 @@ Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 0
 Elixir of the Mongoose, -8, 28
 Elixir of the Mongoose, -8, 59
+Elixir of the Mongoose, 2, -1
 Elixir of the Mongoose, 2, 0
 Elixir of the Mongoose, 2, 0
 Elixir of the Mongoose, 2, 0
@@ -3150,6 +3598,7 @@ Elixir of the Mongoose, 2, 36
 Elixir of the Mongoose, 2, 67
 Elixir of the Mongoose, 2, 7
 Elixir of the Mongoose, 2, 7
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -3157,6 +3606,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -3164,6 +3614,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -3171,6 +3622,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -3178,6 +3630,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -3185,6 +3638,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -3192,6 +3646,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
@@ -3200,6 +3655,7 @@ Sulfuras, Hand of Ragnaros, 5, 6
 Sulfuras, Hand of Ragnaros, 5, 7
 Sulfuras, Hand of Ragnaros, 5, 80
 Items after day 14
++5 Dexterity Vest, -11, -1
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 0
@@ -3207,6 +3663,7 @@ Items after day 14
 +5 Dexterity Vest, -11, 0
 +5 Dexterity Vest, -11, 24
 +5 Dexterity Vest, -11, 55
++5 Dexterity Vest, -12, -1
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 0
@@ -3214,6 +3671,7 @@ Items after day 14
 +5 Dexterity Vest, -12, 0
 +5 Dexterity Vest, -12, 23
 +5 Dexterity Vest, -12, 54
++5 Dexterity Vest, -14, -1
 +5 Dexterity Vest, -14, 0
 +5 Dexterity Vest, -14, 0
 +5 Dexterity Vest, -14, 0
@@ -3221,6 +3679,7 @@ Items after day 14
 +5 Dexterity Vest, -14, 0
 +5 Dexterity Vest, -14, 21
 +5 Dexterity Vest, -14, 52
++5 Dexterity Vest, -15, -1
 +5 Dexterity Vest, -15, 0
 +5 Dexterity Vest, -15, 0
 +5 Dexterity Vest, -15, 0
@@ -3228,6 +3687,7 @@ Items after day 14
 +5 Dexterity Vest, -15, 0
 +5 Dexterity Vest, -15, 21
 +5 Dexterity Vest, -15, 52
++5 Dexterity Vest, -4, -1
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
 +5 Dexterity Vest, -4, 0
@@ -3235,6 +3695,7 @@ Items after day 14
 +5 Dexterity Vest, -4, 2
 +5 Dexterity Vest, -4, 31
 +5 Dexterity Vest, -4, 62
++5 Dexterity Vest, -9, -1
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 0
@@ -3242,6 +3703,7 @@ Items after day 14
 +5 Dexterity Vest, -9, 0
 +5 Dexterity Vest, -9, 26
 +5 Dexterity Vest, -9, 57
++5 Dexterity Vest, 1, -1
 +5 Dexterity Vest, 1, 0
 +5 Dexterity Vest, 1, 0
 +5 Dexterity Vest, 1, 0
@@ -3249,6 +3711,7 @@ Items after day 14
 +5 Dexterity Vest, 1, 6
 +5 Dexterity Vest, 1, 6
 +5 Dexterity Vest, 1, 66
+Aged Brie, -11, 24
 Aged Brie, -11, 25
 Aged Brie, -11, 31
 Aged Brie, -11, 32
@@ -3256,6 +3719,7 @@ Aged Brie, -11, 45
 Aged Brie, -11, 45
 Aged Brie, -11, 50
 Aged Brie, -11, 80
+Aged Brie, -12, 25
 Aged Brie, -12, 26
 Aged Brie, -12, 32
 Aged Brie, -12, 33
@@ -3263,6 +3727,7 @@ Aged Brie, -12, 46
 Aged Brie, -12, 46
 Aged Brie, -12, 50
 Aged Brie, -12, 80
+Aged Brie, -14, 27
 Aged Brie, -14, 28
 Aged Brie, -14, 34
 Aged Brie, -14, 35
@@ -3270,6 +3735,7 @@ Aged Brie, -14, 48
 Aged Brie, -14, 48
 Aged Brie, -14, 50
 Aged Brie, -14, 80
+Aged Brie, -15, 27
 Aged Brie, -15, 28
 Aged Brie, -15, 34
 Aged Brie, -15, 35
@@ -3277,6 +3743,7 @@ Aged Brie, -15, 48
 Aged Brie, -15, 48
 Aged Brie, -15, 50
 Aged Brie, -15, 80
+Aged Brie, -4, 17
 Aged Brie, -4, 18
 Aged Brie, -4, 24
 Aged Brie, -4, 25
@@ -3284,6 +3751,7 @@ Aged Brie, -4, 38
 Aged Brie, -4, 38
 Aged Brie, -4, 50
 Aged Brie, -4, 80
+Aged Brie, -9, 22
 Aged Brie, -9, 23
 Aged Brie, -9, 29
 Aged Brie, -9, 30
@@ -3291,6 +3759,7 @@ Aged Brie, -9, 43
 Aged Brie, -9, 43
 Aged Brie, -9, 50
 Aged Brie, -9, 80
+Aged Brie, 1, 13
 Aged Brie, 1, 14
 Aged Brie, 1, 20
 Aged Brie, 1, 21
@@ -3305,6 +3774,8 @@ Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
@@ -3319,6 +3790,8 @@ Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
+Backstage passes to a TAFKAL80ETC concert, -14, 0
+Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
@@ -3333,6 +3806,7 @@ Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
+Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
@@ -3340,6 +3814,8 @@ Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, 1, 26
 Backstage passes to a TAFKAL80ETC concert, 1, 27
 Backstage passes to a TAFKAL80ETC concert, 1, 33
 Backstage passes to a TAFKAL80ETC concert, 1, 34
@@ -3347,6 +3823,7 @@ Backstage passes to a TAFKAL80ETC concert, 1, 47
 Backstage passes to a TAFKAL80ETC concert, 1, 47
 Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 80
+Elixir of the Mongoose, -11, -1
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
@@ -3354,6 +3831,7 @@ Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 0
 Elixir of the Mongoose, -11, 24
 Elixir of the Mongoose, -11, 55
+Elixir of the Mongoose, -12, -1
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
@@ -3361,6 +3839,7 @@ Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 0
 Elixir of the Mongoose, -12, 23
 Elixir of the Mongoose, -12, 54
+Elixir of the Mongoose, -14, -1
 Elixir of the Mongoose, -14, 0
 Elixir of the Mongoose, -14, 0
 Elixir of the Mongoose, -14, 0
@@ -3368,6 +3847,7 @@ Elixir of the Mongoose, -14, 0
 Elixir of the Mongoose, -14, 0
 Elixir of the Mongoose, -14, 21
 Elixir of the Mongoose, -14, 52
+Elixir of the Mongoose, -15, -1
 Elixir of the Mongoose, -15, 0
 Elixir of the Mongoose, -15, 0
 Elixir of the Mongoose, -15, 0
@@ -3375,6 +3855,7 @@ Elixir of the Mongoose, -15, 0
 Elixir of the Mongoose, -15, 0
 Elixir of the Mongoose, -15, 21
 Elixir of the Mongoose, -15, 52
+Elixir of the Mongoose, -4, -1
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
 Elixir of the Mongoose, -4, 0
@@ -3382,6 +3863,7 @@ Elixir of the Mongoose, -4, 2
 Elixir of the Mongoose, -4, 2
 Elixir of the Mongoose, -4, 31
 Elixir of the Mongoose, -4, 62
+Elixir of the Mongoose, -9, -1
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
@@ -3389,6 +3871,7 @@ Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 0
 Elixir of the Mongoose, -9, 26
 Elixir of the Mongoose, -9, 57
+Elixir of the Mongoose, 1, -1
 Elixir of the Mongoose, 1, 0
 Elixir of the Mongoose, 1, 0
 Elixir of the Mongoose, 1, 0
@@ -3396,6 +3879,7 @@ Elixir of the Mongoose, 1, 35
 Elixir of the Mongoose, 1, 6
 Elixir of the Mongoose, 1, 6
 Elixir of the Mongoose, 1, 66
+Sulfuras, Hand of Ragnaros, -1, -1
 Sulfuras, Hand of Ragnaros, -1, 0
 Sulfuras, Hand of Ragnaros, -1, 20
 Sulfuras, Hand of Ragnaros, -1, 20
@@ -3403,6 +3887,7 @@ Sulfuras, Hand of Ragnaros, -1, 49
 Sulfuras, Hand of Ragnaros, -1, 6
 Sulfuras, Hand of Ragnaros, -1, 7
 Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, -1
 Sulfuras, Hand of Ragnaros, 0, 0
 Sulfuras, Hand of Ragnaros, 0, 20
 Sulfuras, Hand of Ragnaros, 0, 20
@@ -3410,6 +3895,7 @@ Sulfuras, Hand of Ragnaros, 0, 49
 Sulfuras, Hand of Ragnaros, 0, 6
 Sulfuras, Hand of Ragnaros, 0, 7
 Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 10, -1
 Sulfuras, Hand of Ragnaros, 10, 0
 Sulfuras, Hand of Ragnaros, 10, 20
 Sulfuras, Hand of Ragnaros, 10, 20
@@ -3417,6 +3903,7 @@ Sulfuras, Hand of Ragnaros, 10, 49
 Sulfuras, Hand of Ragnaros, 10, 6
 Sulfuras, Hand of Ragnaros, 10, 7
 Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 15, -1
 Sulfuras, Hand of Ragnaros, 15, 0
 Sulfuras, Hand of Ragnaros, 15, 20
 Sulfuras, Hand of Ragnaros, 15, 20
@@ -3424,6 +3911,7 @@ Sulfuras, Hand of Ragnaros, 15, 49
 Sulfuras, Hand of Ragnaros, 15, 6
 Sulfuras, Hand of Ragnaros, 15, 7
 Sulfuras, Hand of Ragnaros, 15, 80
+Sulfuras, Hand of Ragnaros, 2, -1
 Sulfuras, Hand of Ragnaros, 2, 0
 Sulfuras, Hand of Ragnaros, 2, 20
 Sulfuras, Hand of Ragnaros, 2, 20
@@ -3431,6 +3919,7 @@ Sulfuras, Hand of Ragnaros, 2, 49
 Sulfuras, Hand of Ragnaros, 2, 6
 Sulfuras, Hand of Ragnaros, 2, 7
 Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 3, -1
 Sulfuras, Hand of Ragnaros, 3, 0
 Sulfuras, Hand of Ragnaros, 3, 20
 Sulfuras, Hand of Ragnaros, 3, 20
@@ -3438,6 +3927,7 @@ Sulfuras, Hand of Ragnaros, 3, 49
 Sulfuras, Hand of Ragnaros, 3, 6
 Sulfuras, Hand of Ragnaros, 3, 7
 Sulfuras, Hand of Ragnaros, 3, 80
+Sulfuras, Hand of Ragnaros, 5, -1
 Sulfuras, Hand of Ragnaros, 5, 0
 Sulfuras, Hand of Ragnaros, 5, 20
 Sulfuras, Hand of Ragnaros, 5, 20
