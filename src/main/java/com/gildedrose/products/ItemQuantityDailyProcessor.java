@@ -18,6 +18,7 @@ public abstract class ItemQuantityDailyProcessor implements QuantityDailyProcess
 
     @Override
     public void processDailyQuantityUpdate() {
+        getItem().quality = Math.max(0, Math.min(50, getItem().quality));
         applyBasicUpdates();
         markPassingOfTime();
         adjustAccordingToNewSellInValue();
@@ -25,7 +26,7 @@ public abstract class ItemQuantityDailyProcessor implements QuantityDailyProcess
 
     protected abstract void applyBasicUpdates();
 
-    protected void markPassingOfTime(){
+    protected void markPassingOfTime() {
         getItem().sellIn--;
     }
 
@@ -37,7 +38,7 @@ public abstract class ItemQuantityDailyProcessor implements QuantityDailyProcess
                 item.quality = item.quality + 1;
             }
         }
-    
+
         public void decreaseQuality(Item item) {
             if (item.quality > 0) {
                 item.quality = item.quality - 1;
