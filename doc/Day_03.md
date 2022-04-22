@@ -132,3 +132,52 @@ Since we defined it as dependency we can directly execute **pitest** to make sur
 ```
 
 _So far so good!_
+
+
+### Refactoring business logic
+
+Until now, we applied very simple refactoring technique, now it's time to make sense of the business logic hidden in here.
+
+For instance introducing a method like this 
+```
+private boolean isDecreasingItem(Item item) {
+    return !isAgedBrie(item)
+            && !isBackStagePass(item);
+}
+```
+we could make it easier to understand the data flow
+```
+if (isDecreasingItem(item)) {
+    if (item.quality > 0 && !isSulfuras(item)) {
+        item.quality = item.quality - 1;
+    }
+} else {
+//
+}
+```
+We are starting to see where our change should go, so let's see if we can add the item in time before the shipment arrives.
+
+We extract few more methods according to business logic.
+
+* _decreaseQuality(item)_
+* _increaseQuality(item)_
+
+Now we can take advantage of this new methods and make sure that we make no mistake in modifying the quality.
+
+```
+private void decreaseQuality(Item item) {
+    if (item.quality > 0) {
+        item.quality = item.quality - 1;
+    }
+}
+
+private void increaseQuality(Item item) {
+    if (item.quality < 50) {
+        item.quality = item.quality + 1;
+    }
+}
+```
+
+now that we have some control over the code that was implemented _(and our tests are still passing)_, we can include our duplicate decrease for the clojure item and deliver the change requested.
+
+We add the **Clojure** items to the list in the test, and we verify that the changes involves only adding the reference for the item and confirming that degrades by requirement.

@@ -9,22 +9,24 @@ class GildedRose {
 
     public void updateQuality() {
         for (Item item : items) {
-            if (!isAgedBrie(item)
-                    && !isBackStagePass(item)) {
+            if (isDecreasingItem(item)) {
                 if (item.quality > 0 && !isSulfuras(item)) {
-                    item.quality = item.quality - 1;
+                    decreaseQuality(item);
+                }
+                if (isClojure(item)) {
+                    decreaseQuality(item);
                 }
             } else {
                 if (item.quality < 50) {
-                    item.quality = item.quality + 1;
+                    increaseQuality(item);
 
                     if (isBackStagePass(item)) {
                         if (item.sellIn < 11 && item.quality < 50) {
-                            item.quality = item.quality + 1;
+                            increaseQuality(item);
                         }
 
                         if (item.sellIn < 6 && item.quality < 50) {
-                            item.quality = item.quality + 1;
+                            increaseQuality(item);
                         }
                     }
                 }
@@ -38,18 +40,39 @@ class GildedRose {
                 if (!isAgedBrie(item)) {
                     if (!isBackStagePass(item)) {
                         if (item.quality > 0 && !isSulfuras(item)) {
-                            item.quality = item.quality - 1;
+                            decreaseQuality(item);
                         }
                     } else {
                         item.quality = 0;
                     }
                 } else {
                     if (item.quality < 50) {
-                        item.quality = item.quality + 1;
+                        increaseQuality(item);
                     }
                 }
             }
         }
+    }
+
+    private boolean isClojure(Item item) {
+        return "Clojure".equals(item.name);
+    }
+
+    private void decreaseQuality(Item item) {
+        if (item.quality > 0) {
+            item.quality = item.quality - 1;
+        }
+    }
+
+    private void increaseQuality(Item item) {
+        if (item.quality < 50) {
+            item.quality = item.quality + 1;
+        }
+    }
+
+    private boolean isDecreasingItem(Item item) {
+        return !isAgedBrie(item)
+                && !isBackStagePass(item);
     }
 
     private boolean isSulfuras(Item item) {

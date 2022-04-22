@@ -27,6 +27,7 @@ class GildedRoseTest {
         List<String> itemNames = Arrays.asList(
                 "+5 Dexterity Vest",
                 "Aged Brie",
+                "Clojure",
                 "Elixir of the Mongoose",
                 "Sulfuras, Hand of Ragnaros",
                 "Backstage passes to a TAFKAL80ETC concert"

@@ -11,3 +11,4 @@ We will be looking at how we can quickly put in place tests that verify the beha
 
 * [Day 1](doc/Day_01.md): Acquiring the code and run tests
 * [Day 2](doc/Day_02.md): Verifying the test and covering all missing cases
+* [Day 3](doc/Day_03.md): Getting inside the code and delivering changes
