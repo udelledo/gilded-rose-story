@@ -10,24 +10,22 @@ class GildedRose {
     public void updateQuality() {
         for (Item item : items) {
             if (isDecreasingItem(item)) {
-                if (item.quality > 0 && !isSulfuras(item)) {
+                if (!isSulfuras(item)) {
                     decreaseQuality(item);
                 }
                 if (isClojure(item)) {
                     decreaseQuality(item);
                 }
             } else {
-                if (item.quality < 50) {
-                    increaseQuality(item);
+                increaseQuality(item);
 
-                    if (isBackStagePass(item)) {
-                        if (item.sellIn < 11 && item.quality < 50) {
-                            increaseQuality(item);
-                        }
+                if (isBackStagePass(item)) {
+                    if (item.sellIn < 11) {
+                        increaseQuality(item);
+                    }
 
-                        if (item.sellIn < 6 && item.quality < 50) {
-                            increaseQuality(item);
-                        }
+                    if (item.sellIn < 6) {
+                        increaseQuality(item);
                     }
                 }
             }
@@ -37,17 +35,16 @@ class GildedRose {
             }
 
             if (item.sellIn < 0) {
-                if (!isAgedBrie(item)) {
-                    if (!isBackStagePass(item)) {
-                        if (item.quality > 0 && !isSulfuras(item)) {
-                            decreaseQuality(item);
-                        }
-                    } else {
-                        item.quality = 0;
-                    }
+                if (isAgedBrie(item)) {
+                    increaseQuality(item);
                 } else {
-                    if (item.quality < 50) {
-                        increaseQuality(item);
+                    if (isBackStagePass(item)) {
+                        item.quality = 0;
+                    } else {
+                        if (isSulfuras(item)) {
+                            continue;
+                        }
+                        decreaseQuality(item);
                     }
                 }
             }
